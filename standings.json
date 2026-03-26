@@ -1,154 +1,52 @@
 {
-  "last_updated": "2026-03-26 22:41 UTC",
+  "last_updated": "2026-03-26 22:55 UTC",
   "standings": [
-    {
-      "person": "Perry",
-      "teams": [
-        {
-          "team": "Mariners",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Tigers",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Orioles",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Athletics",
-          "wins": 76,
-          "losses": 86
-        },
-        {
-          "team": "White Sox",
-          "wins": 0,
-          "losses": 0
-        }
-      ],
-      "total_wins": 76,
-      "total_losses": 86,
-      "win_pct": 0.469,
-      "rank": 1
-    },
     {
       "person": "Brian",
       "teams": [
         {
           "team": "Cubs",
-          "wins": 0,
-          "losses": 0
+          "wins": 92,
+          "losses": 70
         },
         {
           "team": "Red Sox",
-          "wins": 0,
-          "losses": 0
+          "wins": 89,
+          "losses": 73
         },
         {
           "team": "Rangers",
-          "wins": 0,
-          "losses": 0
+          "wins": 81,
+          "losses": 81
         },
         {
           "team": "Reds",
-          "wins": 0,
-          "losses": 0
+          "wins": 83,
+          "losses": 79
         },
         {
           "team": "Marlins",
-          "wins": 0,
-          "losses": 0
+          "wins": 79,
+          "losses": 83
         }
       ],
-      "total_wins": 0,
-      "total_losses": 0,
-      "win_pct": 0,
-      "rank": 2
-    },
-    {
-      "person": "Porter",
-      "teams": [
-        {
-          "team": "Braves",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Mets",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Royals",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Giants",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Rockies",
-          "wins": 0,
-          "losses": 0
-        }
-      ],
-      "total_wins": 0,
-      "total_losses": 0,
-      "win_pct": 0,
-      "rank": 3
-    },
-    {
-      "person": "Rice",
-      "teams": [
-        {
-          "team": "Yankees",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Brewers",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Astros",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Rays",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Nationals",
-          "wins": 0,
-          "losses": 0
-        }
-      ],
-      "total_wins": 0,
-      "total_losses": 0,
-      "win_pct": 0,
-      "rank": 4
+      "total_wins": 424,
+      "total_losses": 386,
+      "win_pct": 0.523,
+      "rank": 1
     },
     {
       "person": "Tim",
       "teams": [
         {
           "team": "Phillies",
-          "wins": 0,
-          "losses": 0
+          "wins": 96,
+          "losses": 66
         },
         {
           "team": "Blue Jays",
-          "wins": 0,
-          "losses": 0
+          "wins": 94,
+          "losses": 68
         },
         {
           "team": "Diamondbacks",
@@ -157,52 +55,154 @@
         },
         {
           "team": "Pirates",
-          "wins": 0,
-          "losses": 0
+          "wins": 71,
+          "losses": 91
         },
         {
           "team": "Cardinals",
-          "wins": 0,
-          "losses": 0
+          "wins": 78,
+          "losses": 84
         }
       ],
-      "total_wins": 0,
-      "total_losses": 0,
-      "win_pct": 0,
-      "rank": 5
+      "total_wins": 339,
+      "total_losses": 309,
+      "win_pct": 0.523,
+      "rank": 2
+    },
+    {
+      "person": "Rice",
+      "teams": [
+        {
+          "team": "Yankees",
+          "wins": 94,
+          "losses": 68
+        },
+        {
+          "team": "Brewers",
+          "wins": 97,
+          "losses": 65
+        },
+        {
+          "team": "Astros",
+          "wins": 87,
+          "losses": 75
+        },
+        {
+          "team": "Rays",
+          "wins": 77,
+          "losses": 85
+        },
+        {
+          "team": "Nationals",
+          "wins": 66,
+          "losses": 96
+        }
+      ],
+      "total_wins": 421,
+      "total_losses": 389,
+      "win_pct": 0.52,
+      "rank": 3
     },
     {
       "person": "Hudson",
       "teams": [
         {
           "team": "Dodgers",
-          "wins": 0,
-          "losses": 0
+          "wins": 93,
+          "losses": 69
         },
         {
           "team": "Padres",
-          "wins": 0,
-          "losses": 0
+          "wins": 90,
+          "losses": 72
         },
         {
           "team": "Guardians",
-          "wins": 0,
-          "losses": 0
+          "wins": 88,
+          "losses": 74
         },
         {
           "team": "Twins",
-          "wins": 0,
-          "losses": 0
+          "wins": 70,
+          "losses": 92
         },
         {
           "team": "Angels",
-          "wins": 0,
-          "losses": 0
+          "wins": 72,
+          "losses": 90
         }
       ],
-      "total_wins": 0,
-      "total_losses": 0,
-      "win_pct": 0,
+      "total_wins": 413,
+      "total_losses": 397,
+      "win_pct": 0.51,
+      "rank": 4
+    },
+    {
+      "person": "Perry",
+      "teams": [
+        {
+          "team": "Mariners",
+          "wins": 90,
+          "losses": 72
+        },
+        {
+          "team": "Tigers",
+          "wins": 87,
+          "losses": 75
+        },
+        {
+          "team": "Orioles",
+          "wins": 75,
+          "losses": 87
+        },
+        {
+          "team": "Athletics",
+          "wins": 76,
+          "losses": 86
+        },
+        {
+          "team": "White Sox",
+          "wins": 60,
+          "losses": 102
+        }
+      ],
+      "total_wins": 388,
+      "total_losses": 422,
+      "win_pct": 0.479,
+      "rank": 5
+    },
+    {
+      "person": "Porter",
+      "teams": [
+        {
+          "team": "Braves",
+          "wins": 76,
+          "losses": 86
+        },
+        {
+          "team": "Mets",
+          "wins": 83,
+          "losses": 79
+        },
+        {
+          "team": "Royals",
+          "wins": 82,
+          "losses": 80
+        },
+        {
+          "team": "Giants",
+          "wins": 81,
+          "losses": 81
+        },
+        {
+          "team": "Rockies",
+          "wins": 43,
+          "losses": 119
+        }
+      ],
+      "total_wins": 365,
+      "total_losses": 445,
+      "win_pct": 0.451,
       "rank": 6
     }
   ]

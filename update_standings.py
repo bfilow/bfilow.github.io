@@ -44,7 +44,7 @@ TEAM_ALIASES = {
     "White Sox": "Chicago White Sox"
 }
 
-def get_team_wins():
+def get_team_records():
     url = "https://statsapi.mlb.com/api/v1/standings"
     params = {
         "leagueId": "103,104",
@@ -55,13 +55,20 @@ def get_team_wins():
     response.raise_for_status()
     data = response.json()
 
-    wins = {}
+    records = {}
+
     for group in data.get("records", []):
         for record in group.get("teamRecords", []):
             team_name = record["team"]["name"]
-            wins[team_name] = record["wins"]
+            wins = record["wins"]
+            losses = record["losses"]
 
-    return wins
+            records[team_name] = {
+                "wins": wins,
+                "losses": losses
+            }
+
+    return records
 
 def build_standings():
     records_by_team = get_team_records()

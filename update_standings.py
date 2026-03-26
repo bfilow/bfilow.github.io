@@ -4,11 +4,11 @@ import requests
 
 POOL = {
     "Brian": ["Yankees", "Braves", "Astros", "Phillies", "Mariners"],
-    "Person2": ["Dodgers", "Cubs", "Rangers", "Mets", "Twins"],
-    "Person3": ["Orioles", "Red Sox", "Blue Jays", "Padres", "Brewers"],
-    "Person4": ["Guardians", "Tigers", "Giants", "Diamondbacks", "Rays"],
-    "Person5": ["Cardinals", "Reds", "Royals", "Pirates", "Angels"],
-    "Person6": ["Athletics", "Nationals", "Marlins", "Rockies", "White Sox"]
+    "Porter": ["Dodgers", "Cubs", "Rangers", "Mets", "Twins"],
+    "Perry": ["Orioles", "Red Sox", "Blue Jays", "Padres", "Brewers"],
+    "Rice": ["Guardians", "Tigers", "Giants", "Diamondbacks", "Rays"],
+    "Pav": ["Cardinals", "Reds", "Royals", "Pirates", "Angels"],
+    "Hudson": ["Athletics", "Nationals", "Marlins", "Rockies", "White Sox"]
 }
 
 TEAM_ALIASES = {

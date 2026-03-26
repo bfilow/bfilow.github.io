@@ -27,7 +27,7 @@ def get_team_records():
 
     for group in data.get("records", []):
         for record in group.get("teamRecords", []):
-            team_name = record["team"]["teamName"]
+            team_name = record["team"]["clubName"]
             wins = record["wins"]
             losses = record["losses"]
 

@@ -47,9 +47,10 @@ TEAM_ALIASES = {
 def get_team_records():
     url = "https://statsapi.mlb.com/api/v1/standings"
     params = {
-        "leagueId": "103,104",
-        "standingsTypes": "regularSeason"
-    }
+    "leagueId": "103,104",
+    "season": 2025,
+    "standingsTypes": "regularSeason"
+}
 
     response = requests.get(url, params=params, timeout=30)
     response.raise_for_status()

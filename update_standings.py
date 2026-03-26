@@ -48,7 +48,7 @@ def get_team_records():
     url = "https://statsapi.mlb.com/api/v1/standings"
     params = {
         "leagueId": "103,104",
-        "season": 2025,
+        "season": 2026,
         "standingsTypes": "regularSeason"
     }
 

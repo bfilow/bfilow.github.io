@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-03-26 22:21 UTC",
+  "last_updated": "2026-03-26 22:38 UTC",
   "standings": [
+    {
+      "person": "Perry",
+      "teams": [
+        {
+          "team": "Mariners",
+          "wins": 0,
+          "losses": 0
+        },
+        {
+          "team": "Tigers",
+          "wins": 0,
+          "losses": 0
+        },
+        {
+          "team": "Orioles",
+          "wins": 0,
+          "losses": 0
+        },
+        {
+          "team": "Athletics",
+          "wins": 76,
+          "losses": 86
+        },
+        {
+          "team": "White Sox",
+          "wins": 0,
+          "losses": 0
+        }
+      ],
+      "total_wins": 76,
+      "total_losses": 86,
+      "win_pct": 0.469,
+      "rank": 1
+    },
     {
       "person": "Brian",
       "teams": [
@@ -33,7 +67,7 @@
       "total_wins": 0,
       "total_losses": 0,
       "win_pct": 0,
-      "rank": 1
+      "rank": 2
     },
     {
       "person": "Porter",
@@ -60,40 +94,6 @@
         },
         {
           "team": "Rockies",
-          "wins": 0,
-          "losses": 0
-        }
-      ],
-      "total_wins": 0,
-      "total_losses": 0,
-      "win_pct": 0,
-      "rank": 2
-    },
-    {
-      "person": "Perry",
-      "teams": [
-        {
-          "team": "Mariners",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Tigers",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Orioles",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Athletics",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "White Sox",
           "wins": 0,
           "losses": 0
         }

@@ -1,4 +1,167 @@
 {
-  "last_updated": "Not updated yet",
-  "standings": []
+  "last_updated": "2026-03-26 15:40 UTC",
+  "standings": [
+    {
+      "person": "Brian",
+      "teams": [
+        {
+          "team": "Yankees",
+          "wins": 0
+        },
+        {
+          "team": "Braves",
+          "wins": 0
+        },
+        {
+          "team": "Astros",
+          "wins": 0
+        },
+        {
+          "team": "Phillies",
+          "wins": 0
+        },
+        {
+          "team": "Mariners",
+          "wins": 0
+        }
+      ],
+      "total_wins": 0,
+      "rank": 1
+    },
+    {
+      "person": "Porter",
+      "teams": [
+        {
+          "team": "Dodgers",
+          "wins": 0
+        },
+        {
+          "team": "Cubs",
+          "wins": 0
+        },
+        {
+          "team": "Rangers",
+          "wins": 0
+        },
+        {
+          "team": "Mets",
+          "wins": 0
+        },
+        {
+          "team": "Twins",
+          "wins": 0
+        }
+      ],
+      "total_wins": 0,
+      "rank": 2
+    },
+    {
+      "person": "Perry",
+      "teams": [
+        {
+          "team": "Orioles",
+          "wins": 0
+        },
+        {
+          "team": "Red Sox",
+          "wins": 0
+        },
+        {
+          "team": "Blue Jays",
+          "wins": 0
+        },
+        {
+          "team": "Padres",
+          "wins": 0
+        },
+        {
+          "team": "Brewers",
+          "wins": 0
+        }
+      ],
+      "total_wins": 0,
+      "rank": 3
+    },
+    {
+      "person": "Rice",
+      "teams": [
+        {
+          "team": "Guardians",
+          "wins": 0
+        },
+        {
+          "team": "Tigers",
+          "wins": 0
+        },
+        {
+          "team": "Giants",
+          "wins": 0
+        },
+        {
+          "team": "Diamondbacks",
+          "wins": 0
+        },
+        {
+          "team": "Rays",
+          "wins": 0
+        }
+      ],
+      "total_wins": 0,
+      "rank": 4
+    },
+    {
+      "person": "Pav",
+      "teams": [
+        {
+          "team": "Cardinals",
+          "wins": 0
+        },
+        {
+          "team": "Reds",
+          "wins": 0
+        },
+        {
+          "team": "Royals",
+          "wins": 0
+        },
+        {
+          "team": "Pirates",
+          "wins": 0
+        },
+        {
+          "team": "Angels",
+          "wins": 0
+        }
+      ],
+      "total_wins": 0,
+      "rank": 5
+    },
+    {
+      "person": "Hudson",
+      "teams": [
+        {
+          "team": "Athletics",
+          "wins": 0
+        },
+        {
+          "team": "Nationals",
+          "wins": 0
+        },
+        {
+          "team": "Marlins",
+          "wins": 0
+        },
+        {
+          "team": "Rockies",
+          "wins": 0
+        },
+        {
+          "team": "White Sox",
+          "wins": 0
+        }
+      ],
+      "total_wins": 0,
+      "rank": 6
+    }
+  ]
 }

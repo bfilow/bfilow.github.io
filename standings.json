@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-03-26 22:11 UTC",
+  "last_updated": "2026-03-26 22:21 UTC",
   "standings": [
     {
       "person": "Brian",
       "teams": [
         {
-          "team": "Yankees",
+          "team": "Cubs",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Braves",
+          "team": "Red Sox",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Astros",
+          "team": "Rangers",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Phillies",
+          "team": "Reds",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Mariners",
+          "team": "Marlins",
           "wins": 0,
           "losses": 0
         }
@@ -39,17 +39,7 @@
       "person": "Porter",
       "teams": [
         {
-          "team": "Dodgers",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Cubs",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Rangers",
+          "team": "Braves",
           "wins": 0,
           "losses": 0
         },
@@ -59,7 +49,17 @@
           "losses": 0
         },
         {
-          "team": "Twins",
+          "team": "Royals",
+          "wins": 0,
+          "losses": 0
+        },
+        {
+          "team": "Giants",
+          "wins": 0,
+          "losses": 0
+        },
+        {
+          "team": "Rockies",
           "wins": 0,
           "losses": 0
         }
@@ -73,27 +73,27 @@
       "person": "Perry",
       "teams": [
         {
+          "team": "Mariners",
+          "wins": 0,
+          "losses": 0
+        },
+        {
+          "team": "Tigers",
+          "wins": 0,
+          "losses": 0
+        },
+        {
           "team": "Orioles",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Red Sox",
+          "team": "Athletics",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Blue Jays",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Padres",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Brewers",
+          "team": "White Sox",
           "wins": 0,
           "losses": 0
         }
@@ -107,27 +107,27 @@
       "person": "Rice",
       "teams": [
         {
-          "team": "Guardians",
+          "team": "Yankees",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Tigers",
+          "team": "Brewers",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Giants",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Diamondbacks",
+          "team": "Astros",
           "wins": 0,
           "losses": 0
         },
         {
           "team": "Rays",
+          "wins": 0,
+          "losses": 0
+        },
+        {
+          "team": "Nationals",
           "wins": 0,
           "losses": 0
         }
@@ -138,20 +138,20 @@
       "rank": 4
     },
     {
-      "person": "Pav",
+      "person": "Tim",
       "teams": [
         {
-          "team": "Cardinals",
+          "team": "Phillies",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Reds",
+          "team": "Blue Jays",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Royals",
+          "team": "Diamondbacks",
           "wins": 0,
           "losses": 0
         },
@@ -161,7 +161,7 @@
           "losses": 0
         },
         {
-          "team": "Angels",
+          "team": "Cardinals",
           "wins": 0,
           "losses": 0
         }
@@ -175,27 +175,27 @@
       "person": "Hudson",
       "teams": [
         {
-          "team": "Athletics",
+          "team": "Dodgers",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Nationals",
+          "team": "Padres",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Marlins",
+          "team": "Guardians",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "Rockies",
+          "team": "Twins",
           "wins": 0,
           "losses": 0
         },
         {
-          "team": "White Sox",
+          "team": "Angels",
           "wins": 0,
           "losses": 0
         }

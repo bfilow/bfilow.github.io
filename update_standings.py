@@ -3,12 +3,12 @@ from datetime import datetime, timezone
 import requests
 
 POOL = {
-    "Brian": ["Yankees", "Braves", "Astros", "Phillies", "Mariners"],
-    "Porter": ["Dodgers", "Cubs", "Rangers", "Mets", "Twins"],
-    "Perry": ["Orioles", "Red Sox", "Blue Jays", "Padres", "Brewers"],
-    "Rice": ["Guardians", "Tigers", "Giants", "Diamondbacks", "Rays"],
-    "Pav": ["Cardinals", "Reds", "Royals", "Pirates", "Angels"],
-    "Hudson": ["Athletics", "Nationals", "Marlins", "Rockies", "White Sox"]
+    "Brian": ["Cubs", "Red Sox", "Rangers", "Reds", "Marlins"],
+    "Porter": ["Braves", "Mets", "Royals", "Giants", "Rockies"],
+    "Perry": ["Mariners", "Tigers", "Orioles", "Athletics", "White Sox"],
+    "Rice": ["Yankees", "Brewers", "Astros", "Rays", "Nationals"],
+    "Tim": ["Phillies", "Blue Jays", "Diamondbacks", "Pirates", "Cardinals"],
+    "Hudson": ["Dodgers", "Padres", "Guardians", "Twins", "Angels"]
 }
 
 TEAM_ALIASES = {

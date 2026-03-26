@@ -64,30 +64,42 @@ def get_team_wins():
     return wins
 
 def build_standings():
-    wins_by_team = get_team_wins()
+    records_by_team = get_team_records()
     standings = []
 
     for person, teams in POOL.items():
         total_wins = 0
+        total_losses = 0
         team_results = []
 
         for short_name in teams:
             official_name = TEAM_ALIASES[short_name]
-            team_wins = wins_by_team.get(official_name, 0)
-            total_wins += team_wins
+            team_data = records_by_team.get(official_name, {"wins": 0, "losses": 0})
+
+            wins = team_data["wins"]
+            losses = team_data["losses"]
+
+            total_wins += wins
+            total_losses += losses
 
             team_results.append({
                 "team": short_name,
-                "wins": team_wins
+                "wins": wins,
+                "losses": losses
             })
+
+        total_games = total_wins + total_losses
+        win_pct = total_wins / total_games if total_games > 0 else 0
 
         standings.append({
             "person": person,
             "teams": team_results,
-            "total_wins": total_wins
+            "total_wins": total_wins,
+            "total_losses": total_losses,
+            "win_pct": round(win_pct, 3)
         })
 
-    standings.sort(key=lambda x: x["total_wins"], reverse=True)
+    standings.sort(key=lambda x: x["win_pct"], reverse=True)
 
     for i, entry in enumerate(standings, start=1):
         entry["rank"] = i

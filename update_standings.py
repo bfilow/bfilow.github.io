@@ -126,7 +126,7 @@ def build_standings():
             "teams": team_results,
             "total_wins": total_wins,
             "total_losses": total_losses,
-            "win_pct": round(win_pct, 3)
+            "win_pct": f"{win_pct:.3f}".lstrip("0")
         })
 
     standings.sort(key=lambda x: x["win_pct"], reverse=True)

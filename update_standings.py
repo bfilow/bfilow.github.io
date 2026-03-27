@@ -129,10 +129,19 @@ def build_standings():
             "win_pct": f"{win_pct:.3f}".lstrip("0")
         })
 
-    standings.sort(key=lambda x: x["win_pct"], reverse=True)
+        standings.sort(key=lambda x: x["win_pct"], reverse=True)
+
+    leader_wins = standings[0]["total_wins"]
+    leader_losses = standings[0]["total_losses"]
 
     for i, entry in enumerate(standings, start=1):
         entry["rank"] = i
+        gb = ((leader_wins - entry["total_wins"]) + (entry["total_losses"] - leader_losses)) / 2
+
+        if gb == 0:
+            entry["games_back"] = "-"
+        else:
+            entry["games_back"] = round(gb, 1)
 
     return standings
 

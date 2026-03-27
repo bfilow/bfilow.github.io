@@ -68,7 +68,7 @@
           div.className = "card";
 
           div.innerHTML = `
-            <h2>${entry.rank}. ${entry.person} — ${entry.win_pct} (${entry.total_wins}-${entry.total_losses})</h2>
+            <h2>${entry.rank}. ${entry.person} — ${entry.win_pct} (${entry.total_wins}-${entry.total_losses}) — GB: ${entry.games_back}</h2>
             <ul>
               ${entry.teams.map(t => `<li>${t.team}: ${t.wins}-${t.losses}</li>`).join("")}
             </ul>

@@ -3,7 +3,7 @@ name: Update MLB standings
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 4,8,12,16,20,23 * * *"
 
 permissions:
   contents: write

@@ -129,7 +129,7 @@ def build_standings():
             "win_pct": f"{win_pct:.3f}".lstrip("0")
         })
 
-            standings.sort(key=lambda x: x["win_pct"], reverse=True)
+    standings.sort(key=lambda x: x["win_pct"], reverse=True)
 
     for i, entry in enumerate(standings, start=1):
         entry["rank"] = i

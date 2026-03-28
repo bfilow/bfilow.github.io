@@ -7,7 +7,7 @@ POOL = {
     "Porter": ["Braves", "Mets", "Royals", "Giants", "Rockies"],
     "Perry": ["Mariners", "Tigers", "Orioles", "Athletics", "White Sox"],
     "Rice": ["Yankees", "Brewers", "Astros", "Rays", "Nationals"],
-    "Tim": ["Phillies", "Blue Jays", "D-Backs", "Pirates", "Cardinals"],
+    "Tim": ["Phillies", "Blue Jays", "D-backs", "Pirates", "Cardinals"],
     "Hudson": ["Dodgers", "Padres", "Guardians", "Twins", "Angels"]
 }
 

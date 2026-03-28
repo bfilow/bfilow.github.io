@@ -1,40 +1,6 @@
 {
-  "last_updated": "2026-03-28 15:59 UTC",
+  "last_updated": "2026-03-28 16:10 UTC",
   "standings": [
-    {
-      "person": "Tim",
-      "teams": [
-        {
-          "team": "Phillies",
-          "wins": 1,
-          "losses": 0
-        },
-        {
-          "team": "Blue Jays",
-          "wins": 1,
-          "losses": 0
-        },
-        {
-          "team": "D-Backs",
-          "wins": 0,
-          "losses": 0
-        },
-        {
-          "team": "Pirates",
-          "wins": 0,
-          "losses": 1
-        },
-        {
-          "team": "Cardinals",
-          "wins": 1,
-          "losses": 0
-        }
-      ],
-      "total_wins": 3,
-      "total_losses": 1,
-      "win_pct": ".750",
-      "rank": 1
-    },
     {
       "person": "Perry",
       "teams": [
@@ -67,7 +33,7 @@
       "total_wins": 4,
       "total_losses": 3,
       "win_pct": ".571",
-      "rank": 2
+      "rank": 1
     },
     {
       "person": "Rice",
@@ -101,7 +67,7 @@
       "total_wins": 4,
       "total_losses": 3,
       "win_pct": ".571",
-      "rank": 3
+      "rank": 2
     },
     {
       "person": "Hudson",
@@ -135,6 +101,40 @@
       "total_wins": 5,
       "total_losses": 4,
       "win_pct": ".556",
+      "rank": 3
+    },
+    {
+      "person": "Tim",
+      "teams": [
+        {
+          "team": "Phillies",
+          "wins": 1,
+          "losses": 0
+        },
+        {
+          "team": "Blue Jays",
+          "wins": 1,
+          "losses": 0
+        },
+        {
+          "team": "D-backs",
+          "wins": 0,
+          "losses": 2
+        },
+        {
+          "team": "Pirates",
+          "wins": 0,
+          "losses": 1
+        },
+        {
+          "team": "Cardinals",
+          "wins": 1,
+          "losses": 0
+        }
+      ],
+      "total_wins": 3,
+      "total_losses": 3,
+      "win_pct": ".500",
       "rank": 4
     },
     {

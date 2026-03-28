@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28 17:04 UTC",
+  "last_updated": "2026-03-28 21:01 UTC",
   "standings": [
     {
       "person": "Perry",
@@ -36,31 +36,31 @@
       "rank": 1
     },
     {
-      "person": "Rice",
+      "person": "Tim",
       "teams": [
         {
-          "team": "Yankees",
-          "wins": 2,
-          "losses": 0
-        },
-        {
-          "team": "Brewers",
+          "team": "Phillies",
           "wins": 1,
           "losses": 0
         },
         {
-          "team": "Astros",
+          "team": "Blue Jays",
+          "wins": 1,
+          "losses": 0
+        },
+        {
+          "team": "D-backs",
           "wins": 0,
           "losses": 2
         },
         {
-          "team": "Rays",
+          "team": "Pirates",
           "wins": 0,
           "losses": 1
         },
         {
-          "team": "Nationals",
-          "wins": 1,
+          "team": "Cardinals",
+          "wins": 2,
           "losses": 0
         }
       ],
@@ -104,45 +104,11 @@
       "rank": 3
     },
     {
-      "person": "Tim",
-      "teams": [
-        {
-          "team": "Phillies",
-          "wins": 1,
-          "losses": 0
-        },
-        {
-          "team": "Blue Jays",
-          "wins": 1,
-          "losses": 0
-        },
-        {
-          "team": "D-backs",
-          "wins": 0,
-          "losses": 2
-        },
-        {
-          "team": "Pirates",
-          "wins": 0,
-          "losses": 1
-        },
-        {
-          "team": "Cardinals",
-          "wins": 1,
-          "losses": 0
-        }
-      ],
-      "total_wins": 3,
-      "total_losses": 3,
-      "win_pct": ".500",
-      "rank": 4
-    },
-    {
       "person": "Brian",
       "teams": [
         {
           "team": "Cubs",
-          "wins": 0,
+          "wins": 1,
           "losses": 1
         },
         {
@@ -166,9 +132,43 @@
           "losses": 0
         }
       ],
-      "total_wins": 2,
+      "total_wins": 3,
       "total_losses": 3,
-      "win_pct": ".400",
+      "win_pct": ".500",
+      "rank": 4
+    },
+    {
+      "person": "Rice",
+      "teams": [
+        {
+          "team": "Yankees",
+          "wins": 2,
+          "losses": 0
+        },
+        {
+          "team": "Brewers",
+          "wins": 1,
+          "losses": 0
+        },
+        {
+          "team": "Astros",
+          "wins": 0,
+          "losses": 2
+        },
+        {
+          "team": "Rays",
+          "wins": 0,
+          "losses": 2
+        },
+        {
+          "team": "Nationals",
+          "wins": 1,
+          "losses": 1
+        }
+      ],
+      "total_wins": 4,
+      "total_losses": 5,
+      "win_pct": ".444",
       "rank": 5
     },
     {

@@ -30,7 +30,7 @@ TEAM_ALIASES = {
     "Guardians": "Cleveland Guardians",
     "Tigers": "Detroit Tigers",
     "Giants": "San Francisco Giants",
-    "D-Backs": "Arizona Diamondbacks",
+    "Diamondbacks": "Arizona Diamondbacks",
     "Rays": "Tampa Bay Rays",
     "Cardinals": "St. Louis Cardinals",
     "Reds": "Cincinnati Reds",

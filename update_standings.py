@@ -11,6 +11,10 @@ POOL = {
     "Hudson": ["Dodgers", "Padres", "Guardians", "Twins", "Angels"]
 }
 
+NAME_FIXES = {
+    "Diamondbacks": "D-backs"
+}
+
 TEAM_ALIASES = {
     "Yankees": "New York Yankees",
     "Braves": "Atlanta Braves",
@@ -96,6 +100,7 @@ def build_standings():
         team_results = []
 
         for short_name in teams:
+            lookup_name = NAME_FIXES.get(short_name, short_name)
             team_data = records_by_team.get(short_name)
 
             if team_data is None:

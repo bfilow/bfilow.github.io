@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30 00:04 UTC",
+  "last_updated": "2026-03-30 07:11 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -85,7 +85,7 @@
         {
           "team": "Guardians",
           "wins": 2,
-          "losses": 1
+          "losses": 2
         },
         {
           "team": "Twins",
@@ -99,8 +99,8 @@
         }
       ],
       "total_wins": 9,
-      "total_losses": 7,
-      "win_pct": ".562",
+      "total_losses": 8,
+      "win_pct": ".529",
       "rank": 3
     },
     {
@@ -138,6 +138,40 @@
       "rank": 4
     },
     {
+      "person": "Perry",
+      "teams": [
+        {
+          "team": "Mariners",
+          "wins": 2,
+          "losses": 2
+        },
+        {
+          "team": "Tigers",
+          "wins": 2,
+          "losses": 1
+        },
+        {
+          "team": "Orioles",
+          "wins": 2,
+          "losses": 1
+        },
+        {
+          "team": "Athletics",
+          "wins": 0,
+          "losses": 3
+        },
+        {
+          "team": "White Sox",
+          "wins": 0,
+          "losses": 3
+        }
+      ],
+      "total_wins": 6,
+      "total_losses": 10,
+      "win_pct": ".375",
+      "rank": 5
+    },
+    {
       "person": "Porter",
       "teams": [
         {
@@ -162,40 +196,6 @@
         },
         {
           "team": "Rockies",
-          "wins": 0,
-          "losses": 3
-        }
-      ],
-      "total_wins": 5,
-      "total_losses": 10,
-      "win_pct": ".333",
-      "rank": 5
-    },
-    {
-      "person": "Perry",
-      "teams": [
-        {
-          "team": "Mariners",
-          "wins": 1,
-          "losses": 2
-        },
-        {
-          "team": "Tigers",
-          "wins": 2,
-          "losses": 1
-        },
-        {
-          "team": "Orioles",
-          "wins": 2,
-          "losses": 1
-        },
-        {
-          "team": "Athletics",
-          "wins": 0,
-          "losses": 3
-        },
-        {
-          "team": "White Sox",
           "wins": 0,
           "losses": 3
         }

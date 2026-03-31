@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30 22:00 UTC",
+  "last_updated": "2026-03-31 00:04 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -90,7 +90,7 @@
         {
           "team": "Twins",
           "wins": 1,
-          "losses": 2
+          "losses": 3
         },
         {
           "team": "Angels",
@@ -99,8 +99,8 @@
         }
       ],
       "total_wins": 9,
-      "total_losses": 8,
-      "win_pct": ".529",
+      "total_losses": 9,
+      "win_pct": ".500",
       "rank": 3
     },
     {
@@ -138,6 +138,40 @@
       "rank": 4
     },
     {
+      "person": "Porter",
+      "teams": [
+        {
+          "team": "Braves",
+          "wins": 2,
+          "losses": 1
+        },
+        {
+          "team": "Mets",
+          "wins": 2,
+          "losses": 1
+        },
+        {
+          "team": "Royals",
+          "wins": 2,
+          "losses": 2
+        },
+        {
+          "team": "Giants",
+          "wins": 0,
+          "losses": 3
+        },
+        {
+          "team": "Rockies",
+          "wins": 0,
+          "losses": 3
+        }
+      ],
+      "total_wins": 6,
+      "total_losses": 10,
+      "win_pct": ".375",
+      "rank": 5
+    },
+    {
       "person": "Perry",
       "teams": [
         {
@@ -169,40 +203,6 @@
       "total_wins": 6,
       "total_losses": 10,
       "win_pct": ".375",
-      "rank": 5
-    },
-    {
-      "person": "Porter",
-      "teams": [
-        {
-          "team": "Braves",
-          "wins": 2,
-          "losses": 1
-        },
-        {
-          "team": "Mets",
-          "wins": 2,
-          "losses": 1
-        },
-        {
-          "team": "Royals",
-          "wins": 1,
-          "losses": 2
-        },
-        {
-          "team": "Giants",
-          "wins": 0,
-          "losses": 3
-        },
-        {
-          "team": "Rockies",
-          "wins": 0,
-          "losses": 3
-        }
-      ],
-      "total_wins": 5,
-      "total_losses": 10,
-      "win_pct": ".333",
       "rank": 6
     }
   ]

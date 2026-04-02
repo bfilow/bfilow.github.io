@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 18:10 UTC",
+  "last_updated": "2026-04-02 21:54 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -104,40 +104,6 @@
       "rank": 3
     },
     {
-      "person": "Porter",
-      "teams": [
-        {
-          "team": "Braves",
-          "wins": 4,
-          "losses": 2
-        },
-        {
-          "team": "Mets",
-          "wins": 3,
-          "losses": 3
-        },
-        {
-          "team": "Royals",
-          "wins": 3,
-          "losses": 2
-        },
-        {
-          "team": "Giants",
-          "wins": 2,
-          "losses": 4
-        },
-        {
-          "team": "Rockies",
-          "wins": 2,
-          "losses": 4
-        }
-      ],
-      "total_wins": 14,
-      "total_losses": 15,
-      "win_pct": ".483",
-      "rank": 4
-    },
-    {
       "person": "Hudson",
       "teams": [
         {
@@ -157,7 +123,7 @@
         },
         {
           "team": "Twins",
-          "wins": 1,
+          "wins": 2,
           "losses": 4
         },
         {
@@ -166,9 +132,43 @@
           "losses": 4
         }
       ],
-      "total_wins": 14,
+      "total_wins": 15,
       "total_losses": 17,
-      "win_pct": ".452",
+      "win_pct": ".469",
+      "rank": 4
+    },
+    {
+      "person": "Porter",
+      "teams": [
+        {
+          "team": "Braves",
+          "wins": 4,
+          "losses": 2
+        },
+        {
+          "team": "Mets",
+          "wins": 3,
+          "losses": 3
+        },
+        {
+          "team": "Royals",
+          "wins": 3,
+          "losses": 3
+        },
+        {
+          "team": "Giants",
+          "wins": 2,
+          "losses": 4
+        },
+        {
+          "team": "Rockies",
+          "wins": 2,
+          "losses": 4
+        }
+      ],
+      "total_wins": 14,
+      "total_losses": 16,
+      "win_pct": ".467",
       "rank": 5
     },
     {

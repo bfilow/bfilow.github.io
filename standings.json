@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-01 22:00 UTC",
+  "last_updated": "2026-04-02 00:00 UTC",
   "standings": [
     {
       "person": "Rice",
       "teams": [
         {
           "team": "Yankees",
-          "wins": 4,
+          "wins": 5,
           "losses": 1
         },
         {
@@ -30,9 +30,9 @@
           "losses": 3
         }
       ],
-      "total_wins": 19,
+      "total_wins": 20,
       "total_losses": 11,
-      "win_pct": ".633",
+      "win_pct": ".645",
       "rank": 1
     },
     {
@@ -124,7 +124,7 @@
         {
           "team": "Giants",
           "wins": 2,
-          "losses": 3
+          "losses": 4
         },
         {
           "team": "Rockies",
@@ -133,8 +133,8 @@
         }
       ],
       "total_wins": 13,
-      "total_losses": 14,
-      "win_pct": ".481",
+      "total_losses": 15,
+      "win_pct": ".464",
       "rank": 4
     },
     {
@@ -147,7 +147,7 @@
         },
         {
           "team": "Padres",
-          "wins": 1,
+          "wins": 2,
           "losses": 4
         },
         {
@@ -166,9 +166,9 @@
           "losses": 4
         }
       ],
-      "total_wins": 12,
+      "total_wins": 13,
       "total_losses": 15,
-      "win_pct": ".444",
+      "win_pct": ".464",
       "rank": 5
     },
     {
@@ -177,7 +177,7 @@
         {
           "team": "Mariners",
           "wins": 3,
-          "losses": 3
+          "losses": 4
         },
         {
           "team": "Tigers",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 10,
-      "total_losses": 20,
-      "win_pct": ".333",
+      "total_losses": 21,
+      "win_pct": ".323",
       "rank": 6
     }
   ]

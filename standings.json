@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 00:03 UTC",
+  "last_updated": "2026-04-03 06:01 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -51,7 +51,7 @@
         {
           "team": "D-backs",
           "wins": 3,
-          "losses": 3
+          "losses": 4
         },
         {
           "team": "Pirates",
@@ -65,8 +65,8 @@
         }
       ],
       "total_wins": 17,
-      "total_losses": 13,
-      "win_pct": ".567",
+      "total_losses": 14,
+      "win_pct": ".548",
       "rank": 2
     },
     {
@@ -104,6 +104,40 @@
       "rank": 3
     },
     {
+      "person": "Porter",
+      "teams": [
+        {
+          "team": "Braves",
+          "wins": 5,
+          "losses": 2
+        },
+        {
+          "team": "Mets",
+          "wins": 3,
+          "losses": 4
+        },
+        {
+          "team": "Royals",
+          "wins": 3,
+          "losses": 3
+        },
+        {
+          "team": "Giants",
+          "wins": 3,
+          "losses": 4
+        },
+        {
+          "team": "Rockies",
+          "wins": 2,
+          "losses": 4
+        }
+      ],
+      "total_wins": 16,
+      "total_losses": 17,
+      "win_pct": ".485",
+      "rank": 4
+    },
+    {
       "person": "Hudson",
       "teams": [
         {
@@ -135,40 +169,6 @@
       "total_wins": 15,
       "total_losses": 17,
       "win_pct": ".469",
-      "rank": 4
-    },
-    {
-      "person": "Porter",
-      "teams": [
-        {
-          "team": "Braves",
-          "wins": 4,
-          "losses": 2
-        },
-        {
-          "team": "Mets",
-          "wins": 3,
-          "losses": 3
-        },
-        {
-          "team": "Royals",
-          "wins": 3,
-          "losses": 3
-        },
-        {
-          "team": "Giants",
-          "wins": 2,
-          "losses": 4
-        },
-        {
-          "team": "Rockies",
-          "wins": 2,
-          "losses": 4
-        }
-      ],
-      "total_wins": 14,
-      "total_losses": 16,
-      "win_pct": ".467",
       "rank": 5
     },
     {

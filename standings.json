@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07 16:14 UTC",
+  "last_updated": "2026-04-07 22:01 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -50,7 +50,7 @@
         },
         {
           "team": "Guardians",
-          "wins": 6,
+          "wins": 7,
           "losses": 5
         },
         {
@@ -64,9 +64,9 @@
           "losses": 5
         }
       ],
-      "total_wins": 29,
+      "total_wins": 30,
       "total_losses": 23,
-      "win_pct": ".558",
+      "win_pct": ".566",
       "rank": 2
     },
     {
@@ -153,7 +153,7 @@
         {
           "team": "Royals",
           "wins": 5,
-          "losses": 5
+          "losses": 6
         },
         {
           "team": "Giants",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 24,
-      "total_losses": 28,
-      "win_pct": ".462",
+      "total_losses": 29,
+      "win_pct": ".453",
       "rank": 5
     },
     {

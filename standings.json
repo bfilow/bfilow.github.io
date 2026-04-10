@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 22:01 UTC",
+  "last_updated": "2026-04-10 06:08 UTC",
   "standings": [
     {
       "person": "Hudson",
@@ -11,7 +11,7 @@
         },
         {
           "team": "Padres",
-          "wins": 6,
+          "wins": 7,
           "losses": 6
         },
         {
@@ -30,9 +30,9 @@
           "losses": 7
         }
       ],
-      "total_wins": 36,
+      "total_wins": 37,
       "total_losses": 27,
-      "win_pct": ".571",
+      "win_pct": ".578",
       "rank": 1
     },
     {
@@ -84,7 +84,7 @@
         },
         {
           "team": "D-backs",
-          "wins": 6,
+          "wins": 7,
           "losses": 6
         },
         {
@@ -98,9 +98,9 @@
           "losses": 5
         }
       ],
-      "total_wins": 31,
+      "total_wins": 32,
       "total_losses": 29,
-      "win_pct": ".517",
+      "win_pct": ".525",
       "rank": 3
     },
     {
@@ -148,12 +148,12 @@
         {
           "team": "Mets",
           "wins": 7,
-          "losses": 5
+          "losses": 6
         },
         {
           "team": "Royals",
           "wins": 5,
-          "losses": 7
+          "losses": 8
         },
         {
           "team": "Giants",
@@ -163,12 +163,12 @@
         {
           "team": "Rockies",
           "wins": 6,
-          "losses": 6
+          "losses": 7
         }
       ],
       "total_wins": 31,
-      "total_losses": 31,
-      "win_pct": ".500",
+      "total_losses": 34,
+      "win_pct": ".477",
       "rank": 5
     },
     {
@@ -196,13 +196,13 @@
         },
         {
           "team": "White Sox",
-          "wins": 4,
+          "wins": 5,
           "losses": 8
         }
       ],
-      "total_wins": 23,
+      "total_wins": 24,
       "total_losses": 39,
-      "win_pct": ".371",
+      "win_pct": ".381",
       "rank": 6
     }
   ]

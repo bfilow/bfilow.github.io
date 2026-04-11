@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 17:50 UTC",
+  "last_updated": "2026-04-11 21:04 UTC",
   "standings": [
     {
       "person": "Hudson",
@@ -40,7 +40,7 @@
       "teams": [
         {
           "team": "Phillies",
-          "wins": 6,
+          "wins": 7,
           "losses": 7
         },
         {
@@ -51,7 +51,7 @@
         {
           "team": "D-backs",
           "wins": 8,
-          "losses": 6
+          "losses": 7
         },
         {
           "team": "Pirates",
@@ -64,9 +64,9 @@
           "losses": 5
         }
       ],
-      "total_wins": 36,
-      "total_losses": 30,
-      "win_pct": ".545",
+      "total_wins": 37,
+      "total_losses": 31,
+      "win_pct": ".544",
       "rank": 2
     },
     {
@@ -104,40 +104,6 @@
       "rank": 3
     },
     {
-      "person": "Brian",
-      "teams": [
-        {
-          "team": "Cubs",
-          "wins": 6,
-          "losses": 7
-        },
-        {
-          "team": "Red Sox",
-          "wins": 4,
-          "losses": 9
-        },
-        {
-          "team": "Rangers",
-          "wins": 7,
-          "losses": 6
-        },
-        {
-          "team": "Reds",
-          "wins": 8,
-          "losses": 6
-        },
-        {
-          "team": "Marlins",
-          "wins": 8,
-          "losses": 6
-        }
-      ],
-      "total_wins": 33,
-      "total_losses": 34,
-      "win_pct": ".493",
-      "rank": 4
-    },
-    {
       "person": "Porter",
       "teams": [
         {
@@ -169,6 +135,40 @@
       "total_wins": 34,
       "total_losses": 36,
       "win_pct": ".486",
+      "rank": 4
+    },
+    {
+      "person": "Brian",
+      "teams": [
+        {
+          "team": "Cubs",
+          "wins": 6,
+          "losses": 7
+        },
+        {
+          "team": "Red Sox",
+          "wins": 4,
+          "losses": 9
+        },
+        {
+          "team": "Rangers",
+          "wins": 7,
+          "losses": 6
+        },
+        {
+          "team": "Reds",
+          "wins": 8,
+          "losses": 6
+        },
+        {
+          "team": "Marlins",
+          "wins": 8,
+          "losses": 7
+        }
+      ],
+      "total_wins": 33,
+      "total_losses": 35,
+      "win_pct": ".485",
       "rank": 5
     },
     {
@@ -181,7 +181,7 @@
         },
         {
           "team": "Tigers",
-          "wins": 5,
+          "wins": 6,
           "losses": 9
         },
         {
@@ -200,9 +200,9 @@
           "losses": 9
         }
       ],
-      "total_wins": 27,
+      "total_wins": 28,
       "total_losses": 41,
-      "win_pct": ".397",
+      "win_pct": ".406",
       "rank": 6
     }
   ]

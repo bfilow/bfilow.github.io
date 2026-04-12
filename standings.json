@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 17:53 UTC",
+  "last_updated": "2026-04-12 21:51 UTC",
   "standings": [
     {
       "person": "Hudson",
@@ -21,18 +21,18 @@
         },
         {
           "team": "Twins",
-          "wins": 8,
+          "wins": 9,
           "losses": 7
         },
         {
           "team": "Angels",
-          "wins": 7,
+          "wins": 8,
           "losses": 8
         }
       ],
-      "total_wins": 44,
+      "total_wins": 46,
       "total_losses": 30,
-      "win_pct": ".595",
+      "win_pct": ".605",
       "rank": 1
     },
     {
@@ -41,32 +41,32 @@
         {
           "team": "Phillies",
           "wins": 7,
-          "losses": 7
+          "losses": 8
         },
         {
           "team": "Blue Jays",
           "wins": 6,
-          "losses": 8
+          "losses": 9
         },
         {
           "team": "D-backs",
-          "wins": 8,
+          "wins": 9,
           "losses": 7
         },
         {
           "team": "Pirates",
           "wins": 9,
-          "losses": 5
+          "losses": 6
         },
         {
           "team": "Cardinals",
           "wins": 8,
-          "losses": 6
+          "losses": 7
         }
       ],
-      "total_wins": 38,
-      "total_losses": 33,
-      "win_pct": ".535",
+      "total_wins": 39,
+      "total_losses": 37,
+      "win_pct": ".513",
       "rank": 2
     },
     {
@@ -75,12 +75,12 @@
         {
           "team": "Yankees",
           "wins": 8,
-          "losses": 6
+          "losses": 7
         },
         {
           "team": "Brewers",
           "wins": 8,
-          "losses": 6
+          "losses": 7
         },
         {
           "team": "Astros",
@@ -89,17 +89,17 @@
         },
         {
           "team": "Rays",
-          "wins": 7,
+          "wins": 8,
           "losses": 7
         },
         {
           "team": "Nationals",
-          "wins": 6,
+          "wins": 7,
           "losses": 8
         }
       ],
-      "total_wins": 35,
-      "total_losses": 36,
+      "total_wins": 37,
+      "total_losses": 38,
       "win_pct": ".493",
       "rank": 3
     },
@@ -108,12 +108,12 @@
       "teams": [
         {
           "team": "Cubs",
-          "wins": 6,
+          "wins": 7,
           "losses": 8
         },
         {
           "team": "Red Sox",
-          "wins": 5,
+          "wins": 6,
           "losses": 9
         },
         {
@@ -124,17 +124,17 @@
         {
           "team": "Reds",
           "wins": 9,
-          "losses": 6
+          "losses": 7
         },
         {
           "team": "Marlins",
           "wins": 8,
-          "losses": 7
+          "losses": 8
         }
       ],
-      "total_wins": 35,
-      "total_losses": 37,
-      "win_pct": ".486",
+      "total_wins": 37,
+      "total_losses": 39,
+      "win_pct": ".487",
       "rank": 4
     },
     {
@@ -148,7 +148,7 @@
         {
           "team": "Mets",
           "wins": 7,
-          "losses": 8
+          "losses": 9
         },
         {
           "team": "Royals",
@@ -158,7 +158,7 @@
         {
           "team": "Giants",
           "wins": 6,
-          "losses": 9
+          "losses": 10
         },
         {
           "team": "Rockies",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 35,
-      "total_losses": 40,
-      "win_pct": ".467",
+      "total_losses": 42,
+      "win_pct": ".455",
       "rank": 5
     },
     {
@@ -181,17 +181,17 @@
         },
         {
           "team": "Tigers",
-          "wins": 6,
+          "wins": 7,
           "losses": 9
         },
         {
           "team": "Orioles",
-          "wins": 7,
+          "wins": 8,
           "losses": 7
         },
         {
           "team": "Athletics",
-          "wins": 7,
+          "wins": 8,
           "losses": 7
         },
         {
@@ -200,9 +200,9 @@
           "losses": 10
         }
       ],
-      "total_wins": 31,
+      "total_wins": 34,
       "total_losses": 42,
-      "win_pct": ".425",
+      "win_pct": ".447",
       "rank": 6
     }
   ]

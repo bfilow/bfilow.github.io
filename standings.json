@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13 00:05 UTC",
+  "last_updated": "2026-04-13 07:29 UTC",
   "standings": [
     {
       "person": "Hudson",
@@ -17,7 +17,7 @@
         {
           "team": "Guardians",
           "wins": 9,
-          "losses": 6
+          "losses": 7
         },
         {
           "team": "Twins",
@@ -31,8 +31,8 @@
         }
       ],
       "total_wins": 47,
-      "total_losses": 31,
-      "win_pct": ".603",
+      "total_losses": 32,
+      "win_pct": ".595",
       "rank": 1
     },
     {
@@ -176,7 +176,7 @@
       "teams": [
         {
           "team": "Braves",
-          "wins": 9,
+          "wins": 10,
           "losses": 6
         },
         {
@@ -200,9 +200,9 @@
           "losses": 10
         }
       ],
-      "total_wins": 35,
+      "total_wins": 36,
       "total_losses": 44,
-      "win_pct": ".443",
+      "win_pct": ".450",
       "rank": 6
     }
   ]

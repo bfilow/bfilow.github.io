@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17 18:37 UTC",
+  "last_updated": "2026-04-17 22:05 UTC",
   "standings": [
     {
       "person": "Hudson",
@@ -108,7 +108,7 @@
       "teams": [
         {
           "team": "Cubs",
-          "wins": 9,
+          "wins": 10,
           "losses": 9
         },
         {
@@ -132,9 +132,9 @@
           "losses": 10
         }
       ],
-      "total_wins": 46,
+      "total_wins": 47,
       "total_losses": 47,
-      "win_pct": ".495",
+      "win_pct": ".500",
       "rank": 4
     },
     {
@@ -182,7 +182,7 @@
         {
           "team": "Mets",
           "wins": 7,
-          "losses": 12
+          "losses": 13
         },
         {
           "team": "Royals",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 40,
-      "total_losses": 55,
-      "win_pct": ".421",
+      "total_losses": 56,
+      "win_pct": ".417",
       "rank": 6
     }
   ]

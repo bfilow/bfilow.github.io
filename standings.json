@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20 15:59 UTC",
+  "last_updated": "2026-04-20 19:45 UTC",
   "standings": [
     {
       "person": "Hudson",
@@ -36,6 +36,40 @@
       "rank": 1
     },
     {
+      "person": "Brian",
+      "teams": [
+        {
+          "team": "Cubs",
+          "wins": 12,
+          "losses": 9
+        },
+        {
+          "team": "Red Sox",
+          "wins": 9,
+          "losses": 13
+        },
+        {
+          "team": "Rangers",
+          "wins": 11,
+          "losses": 11
+        },
+        {
+          "team": "Reds",
+          "wins": 14,
+          "losses": 8
+        },
+        {
+          "team": "Marlins",
+          "wins": 10,
+          "losses": 12
+        }
+      ],
+      "total_wins": 56,
+      "total_losses": 53,
+      "win_pct": ".514",
+      "rank": 2
+    },
+    {
       "person": "Tim",
       "teams": [
         {
@@ -67,40 +101,6 @@
       "total_wins": 55,
       "total_losses": 52,
       "win_pct": ".514",
-      "rank": 2
-    },
-    {
-      "person": "Brian",
-      "teams": [
-        {
-          "team": "Cubs",
-          "wins": 12,
-          "losses": 9
-        },
-        {
-          "team": "Red Sox",
-          "wins": 8,
-          "losses": 13
-        },
-        {
-          "team": "Rangers",
-          "wins": 11,
-          "losses": 11
-        },
-        {
-          "team": "Reds",
-          "wins": 14,
-          "losses": 8
-        },
-        {
-          "team": "Marlins",
-          "wins": 10,
-          "losses": 12
-        }
-      ],
-      "total_wins": 55,
-      "total_losses": 53,
-      "win_pct": ".509",
       "rank": 3
     },
     {
@@ -148,7 +148,7 @@
         {
           "team": "Tigers",
           "wins": 12,
-          "losses": 10
+          "losses": 11
         },
         {
           "team": "Orioles",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 51,
-      "total_losses": 60,
-      "win_pct": ".459",
+      "total_losses": 61,
+      "win_pct": ".455",
       "rank": 5
     },
     {

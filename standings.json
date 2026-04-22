@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 15:57 UTC",
+  "last_updated": "2026-04-22 19:55 UTC",
   "standings": [
     {
       "person": "Hudson",
@@ -17,7 +17,7 @@
         {
           "team": "Guardians",
           "wins": 14,
-          "losses": 11
+          "losses": 12
         },
         {
           "team": "Twins",
@@ -31,8 +31,8 @@
         }
       ],
       "total_wins": 69,
-      "total_losses": 50,
-      "win_pct": ".580",
+      "total_losses": 51,
+      "win_pct": ".575",
       "rank": 1
     },
     {
@@ -56,17 +56,17 @@
         {
           "team": "Reds",
           "wins": 16,
-          "losses": 8
+          "losses": 9
         },
         {
           "team": "Marlins",
-          "wins": 11,
+          "wins": 12,
           "losses": 13
         }
       ],
-      "total_wins": 62,
-      "total_losses": 55,
-      "win_pct": ".530",
+      "total_wins": 63,
+      "total_losses": 56,
+      "win_pct": ".529",
       "rank": 2
     },
     {
@@ -84,12 +84,12 @@
         },
         {
           "team": "Astros",
-          "wins": 9,
+          "wins": 10,
           "losses": 16
         },
         {
           "team": "Rays",
-          "wins": 12,
+          "wins": 13,
           "losses": 11
         },
         {
@@ -98,9 +98,9 @@
           "losses": 13
         }
       ],
-      "total_wins": 59,
+      "total_wins": 61,
       "total_losses": 58,
-      "win_pct": ".504",
+      "win_pct": ".513",
       "rank": 3
     },
     {
@@ -129,12 +129,12 @@
         {
           "team": "Cardinals",
           "wins": 14,
-          "losses": 9
+          "losses": 10
         }
       ],
       "total_wins": 58,
-      "total_losses": 57,
-      "win_pct": ".504",
+      "total_losses": 58,
+      "win_pct": ".500",
       "rank": 4
     },
     {

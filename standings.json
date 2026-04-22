@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 19:55 UTC",
+  "last_updated": "2026-04-22 22:33 UTC",
   "standings": [
     {
       "person": "Hudson",
@@ -26,13 +26,13 @@
         },
         {
           "team": "Angels",
-          "wins": 11,
+          "wins": 12,
           "losses": 14
         }
       ],
-      "total_wins": 69,
+      "total_wins": 70,
       "total_losses": 51,
-      "win_pct": ".575",
+      "win_pct": ".579",
       "rank": 1
     },
     {
@@ -114,7 +114,7 @@
         {
           "team": "Blue Jays",
           "wins": 10,
-          "losses": 13
+          "losses": 14
         },
         {
           "team": "D-backs",
@@ -133,8 +133,8 @@
         }
       ],
       "total_wins": 58,
-      "total_losses": 58,
-      "win_pct": ".500",
+      "total_losses": 59,
+      "win_pct": ".496",
       "rank": 4
     },
     {
@@ -152,7 +152,7 @@
         },
         {
           "team": "Orioles",
-          "wins": 11,
+          "wins": 12,
           "losses": 13
         },
         {
@@ -166,9 +166,9 @@
           "losses": 14
         }
       ],
-      "total_wins": 55,
+      "total_wins": 56,
       "total_losses": 65,
-      "win_pct": ".458",
+      "win_pct": ".463",
       "rank": 5
     },
     {
@@ -187,7 +187,7 @@
         {
           "team": "Royals",
           "wins": 8,
-          "losses": 16
+          "losses": 17
         },
         {
           "team": "Giants",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 50,
-      "total_losses": 68,
-      "win_pct": ".424",
+      "total_losses": 69,
+      "win_pct": ".420",
       "rank": 6
     }
   ]

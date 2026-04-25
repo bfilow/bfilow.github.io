@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 17:59 UTC",
+  "last_updated": "2026-04-25 20:30 UTC",
   "standings": [
     {
       "person": "Hudson",
@@ -45,7 +45,7 @@
         },
         {
           "team": "Red Sox",
-          "wins": 9,
+          "wins": 10,
           "losses": 17
         },
         {
@@ -64,9 +64,9 @@
           "losses": 13
         }
       ],
-      "total_wins": 69,
+      "total_wins": 70,
       "total_losses": 61,
-      "win_pct": ".531",
+      "win_pct": ".534",
       "rank": 2
     },
     {
@@ -119,7 +119,7 @@
         {
           "team": "Orioles",
           "wins": 13,
-          "losses": 13
+          "losses": 14
         },
         {
           "team": "Athletics",
@@ -133,8 +133,8 @@
         }
       ],
       "total_wins": 64,
-      "total_losses": 68,
-      "win_pct": ".485",
+      "total_losses": 69,
+      "win_pct": ".481",
       "rank": 4
     },
     {

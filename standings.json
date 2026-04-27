@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26 23:32 UTC",
+  "last_updated": "2026-04-27 04:26 UTC",
   "standings": [
     {
       "person": "Hudson",
@@ -27,12 +27,12 @@
         {
           "team": "Angels",
           "wins": 12,
-          "losses": 16
+          "losses": 17
         }
       ],
       "total_wins": 76,
-      "total_losses": 64,
-      "win_pct": ".543",
+      "total_losses": 65,
+      "win_pct": ".539",
       "rank": 1
     },
     {
@@ -186,7 +186,7 @@
         },
         {
           "team": "Royals",
-          "wins": 10,
+          "wins": 11,
           "losses": 17
         },
         {
@@ -200,9 +200,9 @@
           "losses": 16
         }
       ],
-      "total_wins": 65,
+      "total_wins": 66,
       "total_losses": 76,
-      "win_pct": ".461",
+      "win_pct": ".465",
       "rank": 6
     }
   ]

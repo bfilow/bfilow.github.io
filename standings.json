@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-28 04:30 UTC",
+  "last_updated": "2026-04-28 10:07 UTC",
   "standings": [
     {
       "person": "Hudson",
       "teams": [
         {
           "team": "Dodgers",
-          "wins": 19,
+          "wins": 20,
           "losses": 9
         },
         {
           "team": "Padres",
-          "wins": 18,
+          "wins": 19,
           "losses": 9
         },
         {
@@ -27,47 +27,13 @@
         {
           "team": "Angels",
           "wins": 12,
-          "losses": 17
+          "losses": 18
         }
       ],
-      "total_wins": 77,
-      "total_losses": 66,
-      "win_pct": ".538",
+      "total_wins": 79,
+      "total_losses": 67,
+      "win_pct": ".541",
       "rank": 1
-    },
-    {
-      "person": "Brian",
-      "teams": [
-        {
-          "team": "Cubs",
-          "wins": 17,
-          "losses": 11
-        },
-        {
-          "team": "Red Sox",
-          "wins": 12,
-          "losses": 17
-        },
-        {
-          "team": "Rangers",
-          "wins": 14,
-          "losses": 15
-        },
-        {
-          "team": "Reds",
-          "wins": 18,
-          "losses": 10
-        },
-        {
-          "team": "Marlins",
-          "wins": 13,
-          "losses": 15
-        }
-      ],
-      "total_wins": 74,
-      "total_losses": 68,
-      "win_pct": ".521",
-      "rank": 2
     },
     {
       "person": "Rice",
@@ -101,7 +67,75 @@
       "total_wins": 74,
       "total_losses": 68,
       "win_pct": ".521",
+      "rank": 2
+    },
+    {
+      "person": "Brian",
+      "teams": [
+        {
+          "team": "Cubs",
+          "wins": 17,
+          "losses": 12
+        },
+        {
+          "team": "Red Sox",
+          "wins": 12,
+          "losses": 17
+        },
+        {
+          "team": "Rangers",
+          "wins": 14,
+          "losses": 15
+        },
+        {
+          "team": "Reds",
+          "wins": 18,
+          "losses": 10
+        },
+        {
+          "team": "Marlins",
+          "wins": 13,
+          "losses": 16
+        }
+      ],
+      "total_wins": 74,
+      "total_losses": 70,
+      "win_pct": ".514",
       "rank": 3
+    },
+    {
+      "person": "Perry",
+      "teams": [
+        {
+          "team": "Mariners",
+          "wins": 14,
+          "losses": 16
+        },
+        {
+          "team": "Tigers",
+          "wins": 15,
+          "losses": 14
+        },
+        {
+          "team": "Orioles",
+          "wins": 13,
+          "losses": 15
+        },
+        {
+          "team": "Athletics",
+          "wins": 15,
+          "losses": 13
+        },
+        {
+          "team": "White Sox",
+          "wins": 12,
+          "losses": 17
+        }
+      ],
+      "total_wins": 69,
+      "total_losses": 75,
+      "win_pct": ".479",
+      "rank": 4
     },
     {
       "person": "Tim",
@@ -135,40 +169,6 @@
       "total_wins": 67,
       "total_losses": 73,
       "win_pct": ".479",
-      "rank": 4
-    },
-    {
-      "person": "Perry",
-      "teams": [
-        {
-          "team": "Mariners",
-          "wins": 14,
-          "losses": 16
-        },
-        {
-          "team": "Tigers",
-          "wins": 15,
-          "losses": 14
-        },
-        {
-          "team": "Orioles",
-          "wins": 13,
-          "losses": 15
-        },
-        {
-          "team": "Athletics",
-          "wins": 15,
-          "losses": 13
-        },
-        {
-          "team": "White Sox",
-          "wins": 11,
-          "losses": 17
-        }
-      ],
-      "total_wins": 68,
-      "total_losses": 75,
-      "win_pct": ".476",
       "rank": 5
     },
     {

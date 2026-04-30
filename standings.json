@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30 20:52 UTC",
+  "last_updated": "2026-04-30 23:43 UTC",
   "standings": [
     {
       "person": "Brian",
@@ -50,7 +50,7 @@
         },
         {
           "team": "Astros",
-          "wins": 11,
+          "wins": 12,
           "losses": 20
         },
         {
@@ -64,9 +64,9 @@
           "losses": 17
         }
       ],
-      "total_wins": 80,
+      "total_wins": 81,
       "total_losses": 74,
-      "win_pct": ".519",
+      "win_pct": ".523",
       "rank": 2
     },
     {
@@ -119,11 +119,11 @@
         {
           "team": "Orioles",
           "wins": 15,
-          "losses": 15
+          "losses": 16
         },
         {
           "team": "Athletics",
-          "wins": 16,
+          "wins": 17,
           "losses": 14
         },
         {
@@ -132,8 +132,8 @@
           "losses": 17
         }
       ],
-      "total_wins": 77,
-      "total_losses": 78,
+      "total_wins": 78,
+      "total_losses": 79,
       "win_pct": ".497",
       "rank": 4
     },
@@ -187,7 +187,7 @@
         {
           "team": "Royals",
           "wins": 12,
-          "losses": 18
+          "losses": 19
         },
         {
           "team": "Giants",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 71,
-      "total_losses": 84,
-      "win_pct": ".458",
+      "total_losses": 85,
+      "win_pct": ".455",
       "rank": 6
     }
   ]

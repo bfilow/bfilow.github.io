@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30 23:43 UTC",
+  "last_updated": "2026-05-01 04:44 UTC",
   "standings": [
     {
       "person": "Brian",
@@ -89,7 +89,7 @@
         },
         {
           "team": "Twins",
-          "wins": 13,
+          "wins": 14,
           "losses": 18
         },
         {
@@ -98,9 +98,9 @@
           "losses": 20
         }
       ],
-      "total_wins": 80,
+      "total_wins": 81,
       "total_losses": 76,
-      "win_pct": ".513",
+      "win_pct": ".516",
       "rank": 3
     },
     {
@@ -142,13 +142,13 @@
       "teams": [
         {
           "team": "Phillies",
-          "wins": 11,
+          "wins": 12,
           "losses": 19
         },
         {
           "team": "Blue Jays",
           "wins": 14,
-          "losses": 16
+          "losses": 17
         },
         {
           "team": "D-backs",
@@ -166,8 +166,8 @@
           "losses": 13
         }
       ],
-      "total_wins": 75,
-      "total_losses": 78,
+      "total_wins": 76,
+      "total_losses": 79,
       "win_pct": ".490",
       "rank": 5
     },
@@ -192,7 +192,7 @@
         {
           "team": "Giants",
           "wins": 13,
-          "losses": 17
+          "losses": 18
         },
         {
           "team": "Rockies",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 71,
-      "total_losses": 85,
-      "win_pct": ".455",
+      "total_losses": 86,
+      "win_pct": ".452",
       "rank": 6
     }
   ]

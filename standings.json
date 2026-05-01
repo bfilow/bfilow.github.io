@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-01 20:42 UTC",
+  "last_updated": "2026-05-01 23:43 UTC",
   "standings": [
     {
       "person": "Brian",
       "teams": [
         {
           "team": "Cubs",
-          "wins": 19,
+          "wins": 20,
           "losses": 12
         },
         {
@@ -30,9 +30,9 @@
           "losses": 16
         }
       ],
-      "total_wins": 81,
+      "total_wins": 82,
       "total_losses": 74,
-      "win_pct": ".523",
+      "win_pct": ".526",
       "rank": 1
     },
     {
@@ -153,7 +153,7 @@
         {
           "team": "D-backs",
           "wins": 16,
-          "losses": 14
+          "losses": 15
         },
         {
           "team": "Pirates",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 76,
-      "total_losses": 79,
-      "win_pct": ".490",
+      "total_losses": 80,
+      "win_pct": ".487",
       "rank": 5
     },
     {

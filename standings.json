@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 04:14 UTC",
+  "last_updated": "2026-05-02 08:58 UTC",
   "standings": [
     {
       "person": "Brian",
@@ -80,11 +80,11 @@
         {
           "team": "Padres",
           "wins": 19,
-          "losses": 11
+          "losses": 12
         },
         {
           "team": "Guardians",
-          "wins": 16,
+          "wins": 17,
           "losses": 16
         },
         {
@@ -98,8 +98,8 @@
           "losses": 21
         }
       ],
-      "total_wins": 81,
-      "total_losses": 79,
+      "total_wins": 82,
+      "total_losses": 80,
       "win_pct": ".506",
       "rank": 3
     },
@@ -143,7 +143,7 @@
         {
           "team": "Mariners",
           "wins": 16,
-          "losses": 16
+          "losses": 17
         },
         {
           "team": "Tigers",
@@ -158,17 +158,17 @@
         {
           "team": "Athletics",
           "wins": 17,
-          "losses": 14
+          "losses": 15
         },
         {
           "team": "White Sox",
-          "wins": 14,
+          "wins": 15,
           "losses": 17
         }
       ],
-      "total_wins": 78,
-      "total_losses": 81,
-      "win_pct": ".491",
+      "total_wins": 79,
+      "total_losses": 83,
+      "win_pct": ".488",
       "rank": 5
     },
     {
@@ -186,7 +186,7 @@
         },
         {
           "team": "Royals",
-          "wins": 12,
+          "wins": 13,
           "losses": 19
         },
         {
@@ -200,9 +200,9 @@
           "losses": 19
         }
       ],
-      "total_wins": 73,
+      "total_wins": 74,
       "total_losses": 88,
-      "win_pct": ".453",
+      "win_pct": ".457",
       "rank": 6
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 04:13 UTC",
+  "last_updated": "2026-05-05 09:55 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -142,7 +142,7 @@
       "teams": [
         {
           "team": "Mariners",
-          "wins": 16,
+          "wins": 17,
           "losses": 19
         },
         {
@@ -166,9 +166,9 @@
           "losses": 18
         }
       ],
-      "total_wins": 84,
+      "total_wins": 85,
       "total_losses": 91,
-      "win_pct": ".480",
+      "win_pct": ".483",
       "rank": 5
     },
     {
@@ -177,7 +177,7 @@
         {
           "team": "Braves",
           "wins": 25,
-          "losses": 10
+          "losses": 11
         },
         {
           "team": "Mets",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 82,
-      "total_losses": 94,
-      "win_pct": ".466",
+      "total_losses": 95,
+      "win_pct": ".463",
       "rank": 6
     }
   ]

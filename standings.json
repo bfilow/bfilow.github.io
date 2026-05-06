@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06 17:24 UTC",
+  "last_updated": "2026-05-06 21:04 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -11,17 +11,17 @@
         },
         {
           "team": "Brewers",
-          "wins": 18,
+          "wins": 19,
           "losses": 16
         },
         {
           "team": "Astros",
           "wins": 15,
-          "losses": 22
+          "losses": 23
         },
         {
           "team": "Rays",
-          "wins": 23,
+          "wins": 24,
           "losses": 12
         },
         {
@@ -30,9 +30,9 @@
           "losses": 20
         }
       ],
-      "total_wins": 97,
-      "total_losses": 81,
-      "win_pct": ".545",
+      "total_wins": 99,
+      "total_losses": 82,
+      "win_pct": ".547",
       "rank": 1
     },
     {
@@ -70,45 +70,11 @@
       "rank": 2
     },
     {
-      "person": "Tim",
-      "teams": [
-        {
-          "team": "Phillies",
-          "wins": 16,
-          "losses": 20
-        },
-        {
-          "team": "Blue Jays",
-          "wins": 16,
-          "losses": 20
-        },
-        {
-          "team": "D-backs",
-          "wins": 17,
-          "losses": 17
-        },
-        {
-          "team": "Pirates",
-          "wins": 19,
-          "losses": 17
-        },
-        {
-          "team": "Cardinals",
-          "wins": 21,
-          "losses": 14
-        }
-      ],
-      "total_wins": 89,
-      "total_losses": 88,
-      "win_pct": ".503",
-      "rank": 3
-    },
-    {
       "person": "Hudson",
       "teams": [
         {
           "team": "Dodgers",
-          "wins": 22,
+          "wins": 23,
           "losses": 14
         },
         {
@@ -132,9 +98,43 @@
           "losses": 23
         }
       ],
-      "total_wins": 91,
+      "total_wins": 92,
       "total_losses": 90,
-      "win_pct": ".503",
+      "win_pct": ".505",
+      "rank": 3
+    },
+    {
+      "person": "Tim",
+      "teams": [
+        {
+          "team": "Phillies",
+          "wins": 16,
+          "losses": 20
+        },
+        {
+          "team": "Blue Jays",
+          "wins": 16,
+          "losses": 21
+        },
+        {
+          "team": "D-backs",
+          "wins": 17,
+          "losses": 17
+        },
+        {
+          "team": "Pirates",
+          "wins": 19,
+          "losses": 17
+        },
+        {
+          "team": "Cardinals",
+          "wins": 21,
+          "losses": 15
+        }
+      ],
+      "total_wins": 89,
+      "total_losses": 90,
+      "win_pct": ".497",
       "rank": 4
     },
     {

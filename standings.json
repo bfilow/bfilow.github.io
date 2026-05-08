@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08 04:12 UTC",
+  "last_updated": "2026-05-08 09:08 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -36,40 +36,6 @@
       "rank": 1
     },
     {
-      "person": "Hudson",
-      "teams": [
-        {
-          "team": "Dodgers",
-          "wins": 23,
-          "losses": 14
-        },
-        {
-          "team": "Padres",
-          "wins": 22,
-          "losses": 14
-        },
-        {
-          "team": "Guardians",
-          "wins": 20,
-          "losses": 19
-        },
-        {
-          "team": "Twins",
-          "wins": 16,
-          "losses": 22
-        },
-        {
-          "team": "Angels",
-          "wins": 15,
-          "losses": 23
-        }
-      ],
-      "total_wins": 96,
-      "total_losses": 92,
-      "win_pct": ".511",
-      "rank": 2
-    },
-    {
       "person": "Brian",
       "teams": [
         {
@@ -96,6 +62,40 @@
           "team": "Marlins",
           "wins": 17,
           "losses": 21
+        }
+      ],
+      "total_wins": 96,
+      "total_losses": 93,
+      "win_pct": ".508",
+      "rank": 2
+    },
+    {
+      "person": "Hudson",
+      "teams": [
+        {
+          "team": "Dodgers",
+          "wins": 23,
+          "losses": 14
+        },
+        {
+          "team": "Padres",
+          "wins": 22,
+          "losses": 15
+        },
+        {
+          "team": "Guardians",
+          "wins": 20,
+          "losses": 19
+        },
+        {
+          "team": "Twins",
+          "wins": 16,
+          "losses": 22
+        },
+        {
+          "team": "Angels",
+          "wins": 15,
+          "losses": 23
         }
       ],
       "total_wins": 96,
@@ -128,13 +128,13 @@
         },
         {
           "team": "Cardinals",
-          "wins": 21,
+          "wins": 22,
           "losses": 15
         }
       ],
-      "total_wins": 92,
+      "total_wins": 93,
       "total_losses": 93,
-      "win_pct": ".497",
+      "win_pct": ".500",
       "rank": 4
     },
     {

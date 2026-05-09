@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09 20:36 UTC",
+  "last_updated": "2026-05-09 23:39 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -17,7 +17,7 @@
         {
           "team": "Astros",
           "wins": 16,
-          "losses": 23
+          "losses": 24
         },
         {
           "team": "Rays",
@@ -27,12 +27,12 @@
         {
           "team": "Nationals",
           "wins": 19,
-          "losses": 20
+          "losses": 21
         }
       ],
       "total_wins": 106,
-      "total_losses": 85,
-      "win_pct": ".555",
+      "total_losses": 87,
+      "win_pct": ".549",
       "rank": 1
     },
     {
@@ -55,18 +55,18 @@
         },
         {
           "team": "Reds",
-          "wins": 20,
+          "wins": 21,
           "losses": 19
         },
         {
           "team": "Marlins",
-          "wins": 17,
+          "wins": 18,
           "losses": 22
         }
       ],
-      "total_wins": 98,
+      "total_wins": 100,
       "total_losses": 96,
-      "win_pct": ".505",
+      "win_pct": ".510",
       "rank": 2
     },
     {
@@ -95,12 +95,12 @@
         {
           "team": "Angels",
           "wins": 15,
-          "losses": 24
+          "losses": 25
         }
       ],
       "total_wins": 98,
-      "total_losses": 96,
-      "win_pct": ".505",
+      "total_losses": 97,
+      "win_pct": ".503",
       "rank": 3
     },
     {
@@ -113,7 +113,7 @@
         },
         {
           "team": "Blue Jays",
-          "wins": 17,
+          "wins": 18,
           "losses": 21
         },
         {
@@ -132,9 +132,9 @@
           "losses": 15
         }
       ],
-      "total_wins": 95,
+      "total_wins": 96,
       "total_losses": 96,
-      "win_pct": ".497",
+      "win_pct": ".500",
       "rank": 4
     },
     {
@@ -153,11 +153,11 @@
         {
           "team": "Orioles",
           "wins": 17,
-          "losses": 22
+          "losses": 23
         },
         {
           "team": "Athletics",
-          "wins": 20,
+          "wins": 21,
           "losses": 18
         },
         {
@@ -166,8 +166,8 @@
           "losses": 21
         }
       ],
-      "total_wins": 91,
-      "total_losses": 102,
+      "total_wins": 92,
+      "total_losses": 103,
       "win_pct": ".472",
       "rank": 5
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09 04:19 UTC",
+  "last_updated": "2026-05-09 09:10 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -74,13 +74,13 @@
       "teams": [
         {
           "team": "Dodgers",
-          "wins": 23,
+          "wins": 24,
           "losses": 14
         },
         {
           "team": "Padres",
           "wins": 22,
-          "losses": 15
+          "losses": 16
         },
         {
           "team": "Guardians",
@@ -98,8 +98,8 @@
           "losses": 24
         }
       ],
-      "total_wins": 97,
-      "total_losses": 95,
+      "total_wins": 98,
+      "total_losses": 96,
       "win_pct": ".505",
       "rank": 3
     },
@@ -119,22 +119,22 @@
         {
           "team": "D-backs",
           "wins": 17,
-          "losses": 19
+          "losses": 20
         },
         {
           "team": "Pirates",
           "wins": 21,
-          "losses": 17
+          "losses": 18
         },
         {
           "team": "Cardinals",
-          "wins": 22,
+          "wins": 23,
           "losses": 15
         }
       ],
-      "total_wins": 94,
-      "total_losses": 94,
-      "win_pct": ".500",
+      "total_wins": 95,
+      "total_losses": 96,
+      "win_pct": ".497",
       "rank": 4
     },
     {
@@ -177,11 +177,11 @@
         {
           "team": "Braves",
           "wins": 26,
-          "losses": 12
+          "losses": 13
         },
         {
           "team": "Mets",
-          "wins": 14,
+          "wins": 15,
           "losses": 23
         },
         {
@@ -191,7 +191,7 @@
         },
         {
           "team": "Giants",
-          "wins": 14,
+          "wins": 15,
           "losses": 23
         },
         {
@@ -200,9 +200,9 @@
           "losses": 23
         }
       ],
-      "total_wins": 88,
-      "total_losses": 102,
-      "win_pct": ".463",
+      "total_wins": 90,
+      "total_losses": 103,
+      "win_pct": ".466",
       "rank": 6
     }
   ]

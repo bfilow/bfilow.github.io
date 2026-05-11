@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10 23:42 UTC",
+  "last_updated": "2026-05-11 04:54 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -70,40 +70,6 @@
       "rank": 2
     },
     {
-      "person": "Tim",
-      "teams": [
-        {
-          "team": "Phillies",
-          "wins": 19,
-          "losses": 22
-        },
-        {
-          "team": "Blue Jays",
-          "wins": 18,
-          "losses": 22
-        },
-        {
-          "team": "D-backs",
-          "wins": 19,
-          "losses": 20
-        },
-        {
-          "team": "Pirates",
-          "wins": 22,
-          "losses": 18
-        },
-        {
-          "team": "Cardinals",
-          "wins": 23,
-          "losses": 17
-        }
-      ],
-      "total_wins": 101,
-      "total_losses": 99,
-      "win_pct": ".505",
-      "rank": 3
-    },
-    {
       "person": "Hudson",
       "teams": [
         {
@@ -135,6 +101,40 @@
       "total_wins": 103,
       "total_losses": 101,
       "win_pct": ".505",
+      "rank": 3
+    },
+    {
+      "person": "Tim",
+      "teams": [
+        {
+          "team": "Phillies",
+          "wins": 19,
+          "losses": 22
+        },
+        {
+          "team": "Blue Jays",
+          "wins": 18,
+          "losses": 22
+        },
+        {
+          "team": "D-backs",
+          "wins": 19,
+          "losses": 20
+        },
+        {
+          "team": "Pirates",
+          "wins": 22,
+          "losses": 19
+        },
+        {
+          "team": "Cardinals",
+          "wins": 23,
+          "losses": 17
+        }
+      ],
+      "total_wins": 101,
+      "total_losses": 100,
+      "win_pct": ".502",
       "rank": 4
     },
     {
@@ -147,7 +147,7 @@
         },
         {
           "team": "Tigers",
-          "wins": 18,
+          "wins": 19,
           "losses": 22
         },
         {
@@ -166,9 +166,9 @@
           "losses": 21
         }
       ],
-      "total_wins": 95,
+      "total_wins": 96,
       "total_losses": 107,
-      "win_pct": ".470",
+      "win_pct": ".473",
       "rank": 5
     },
     {
@@ -187,11 +187,11 @@
         {
           "team": "Royals",
           "wins": 19,
-          "losses": 21
+          "losses": 22
         },
         {
           "team": "Giants",
-          "wins": 15,
+          "wins": 16,
           "losses": 24
         },
         {
@@ -200,8 +200,8 @@
           "losses": 25
         }
       ],
-      "total_wins": 93,
-      "total_losses": 108,
+      "total_wins": 94,
+      "total_losses": 109,
       "win_pct": ".463",
       "rank": 6
     }

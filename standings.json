@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 17:55 UTC",
+  "last_updated": "2026-05-13 21:19 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -7,7 +7,7 @@
         {
           "team": "Yankees",
           "wins": 27,
-          "losses": 16
+          "losses": 17
         },
         {
           "team": "Brewers",
@@ -31,8 +31,8 @@
         }
       ],
       "total_wins": 114,
-      "total_losses": 94,
-      "win_pct": ".548",
+      "total_losses": 95,
+      "win_pct": ".545",
       "rank": 1
     },
     {
@@ -118,7 +118,7 @@
         },
         {
           "team": "Guardians",
-          "wins": 23,
+          "wins": 24,
           "losses": 21
         },
         {
@@ -129,11 +129,11 @@
         {
           "team": "Angels",
           "wins": 16,
-          "losses": 27
+          "losses": 28
         }
       ],
-      "total_wins": 106,
-      "total_losses": 106,
+      "total_wins": 107,
+      "total_losses": 107,
       "win_pct": ".500",
       "rank": 4
     },
@@ -152,7 +152,7 @@
         },
         {
           "team": "Orioles",
-          "wins": 19,
+          "wins": 20,
           "losses": 24
         },
         {
@@ -166,9 +166,9 @@
           "losses": 21
         }
       ],
-      "total_wins": 100,
+      "total_wins": 101,
       "total_losses": 110,
-      "win_pct": ".476",
+      "win_pct": ".479",
       "rank": 5
     },
     {

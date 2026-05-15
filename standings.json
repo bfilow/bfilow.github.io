@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14 23:48 UTC",
+  "last_updated": "2026-05-15 04:43 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -40,13 +40,13 @@
       "teams": [
         {
           "team": "Cubs",
-          "wins": 27,
+          "wins": 28,
           "losses": 16
         },
         {
           "team": "Red Sox",
           "wins": 18,
-          "losses": 24
+          "losses": 25
         },
         {
           "team": "Rangers",
@@ -64,8 +64,8 @@
           "losses": 24
         }
       ],
-      "total_wins": 109,
-      "total_losses": 107,
+      "total_wins": 110,
+      "total_losses": 108,
       "win_pct": ".505",
       "rank": 2
     },
@@ -74,7 +74,7 @@
       "teams": [
         {
           "team": "Phillies",
-          "wins": 20,
+          "wins": 21,
           "losses": 23
         },
         {
@@ -98,9 +98,9 @@
           "losses": 18
         }
       ],
-      "total_wins": 108,
+      "total_wins": 109,
       "total_losses": 107,
-      "win_pct": ".502",
+      "win_pct": ".505",
       "rank": 3
     },
     {
@@ -162,13 +162,13 @@
         },
         {
           "team": "White Sox",
-          "wins": 21,
+          "wins": 22,
           "losses": 21
         }
       ],
-      "total_wins": 104,
+      "total_wins": 105,
       "total_losses": 114,
-      "win_pct": ".477",
+      "win_pct": ".479",
       "rank": 5
     },
     {
@@ -177,7 +177,7 @@
         {
           "team": "Braves",
           "wins": 30,
-          "losses": 13
+          "losses": 14
         },
         {
           "team": "Mets",
@@ -187,7 +187,7 @@
         {
           "team": "Royals",
           "wins": 19,
-          "losses": 24
+          "losses": 25
         },
         {
           "team": "Giants",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 102,
-      "total_losses": 114,
-      "win_pct": ".472",
+      "total_losses": 116,
+      "win_pct": ".468",
       "rank": 6
     }
   ]

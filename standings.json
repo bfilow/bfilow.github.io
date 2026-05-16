@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16 16:49 UTC",
+  "last_updated": "2026-05-16 20:39 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -45,7 +45,7 @@
         },
         {
           "team": "Blue Jays",
-          "wins": 19,
+          "wins": 20,
           "losses": 25
         },
         {
@@ -64,9 +64,9 @@
           "losses": 18
         }
       ],
-      "total_wins": 112,
+      "total_wins": 113,
       "total_losses": 109,
-      "win_pct": ".507",
+      "win_pct": ".509",
       "rank": 2
     },
     {
@@ -148,7 +148,7 @@
         {
           "team": "Tigers",
           "wins": 20,
-          "losses": 25
+          "losses": 26
         },
         {
           "team": "Orioles",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 107,
-      "total_losses": 117,
-      "win_pct": ".478",
+      "total_losses": 118,
+      "win_pct": ".476",
       "rank": 5
     },
     {

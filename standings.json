@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24 04:57 UTC",
+  "last_updated": "2026-05-24 09:48 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -60,13 +60,13 @@
         },
         {
           "team": "Angels",
-          "wins": 18,
+          "wins": 19,
           "losses": 34
         }
       ],
-      "total_wins": 137,
+      "total_wins": 138,
       "total_losses": 124,
-      "win_pct": ".525",
+      "win_pct": ".527",
       "rank": 2
     },
     {
@@ -119,7 +119,7 @@
         {
           "team": "Rangers",
           "wins": 24,
-          "losses": 26
+          "losses": 27
         },
         {
           "team": "Reds",
@@ -133,8 +133,8 @@
         }
       ],
       "total_wins": 126,
-      "total_losses": 132,
-      "win_pct": ".488",
+      "total_losses": 133,
+      "win_pct": ".486",
       "rank": 4
     },
     {

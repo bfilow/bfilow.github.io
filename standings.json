@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25 17:28 UTC",
+  "last_updated": "2026-05-25 20:57 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -11,7 +11,7 @@
         },
         {
           "team": "Brewers",
-          "wins": 30,
+          "wins": 31,
           "losses": 20
         },
         {
@@ -30,9 +30,9 @@
           "losses": 27
         }
       ],
-      "total_wins": 145,
+      "total_wins": 146,
       "total_losses": 116,
-      "win_pct": ".556",
+      "win_pct": ".557",
       "rank": 1
     },
     {
@@ -56,7 +56,7 @@
         {
           "team": "Twins",
           "wins": 26,
-          "losses": 27
+          "losses": 28
         },
         {
           "team": "Angels",
@@ -65,8 +65,8 @@
         }
       ],
       "total_wins": 142,
-      "total_losses": 125,
-      "win_pct": ".532",
+      "total_losses": 126,
+      "win_pct": ".530",
       "rank": 2
     },
     {
@@ -89,17 +89,17 @@
         },
         {
           "team": "Pirates",
-          "wins": 27,
+          "wins": 28,
           "losses": 26
         },
         {
           "team": "Cardinals",
           "wins": 29,
-          "losses": 22
+          "losses": 23
         }
       ],
-      "total_wins": 135,
-      "total_losses": 127,
+      "total_wins": 136,
+      "total_losses": 128,
       "win_pct": ".515",
       "rank": 3
     },
@@ -109,7 +109,7 @@
         {
           "team": "Cubs",
           "wins": 29,
-          "losses": 24
+          "losses": 25
         },
         {
           "team": "Red Sox",
@@ -133,8 +133,8 @@
         }
       ],
       "total_wins": 127,
-      "total_losses": 136,
-      "win_pct": ".483",
+      "total_losses": 137,
+      "win_pct": ".481",
       "rank": 4
     },
     {
@@ -162,13 +162,13 @@
         },
         {
           "team": "White Sox",
-          "wins": 26,
+          "wins": 27,
           "losses": 26
         }
       ],
-      "total_wins": 122,
+      "total_wins": 123,
       "total_losses": 144,
-      "win_pct": ".459",
+      "win_pct": ".461",
       "rank": 5
     },
     {

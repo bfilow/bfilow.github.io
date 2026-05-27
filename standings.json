@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27 21:46 UTC",
+  "last_updated": "2026-05-27 23:55 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -46,7 +46,7 @@
         {
           "team": "Padres",
           "wins": 31,
-          "losses": 23
+          "losses": 24
         },
         {
           "team": "Guardians",
@@ -65,8 +65,8 @@
         }
       ],
       "total_wins": 147,
-      "total_losses": 130,
-      "win_pct": ".531",
+      "total_losses": 131,
+      "win_pct": ".529",
       "rank": 2
     },
     {
@@ -74,7 +74,7 @@
       "teams": [
         {
           "team": "Phillies",
-          "wins": 28,
+          "wins": 29,
           "losses": 27
         },
         {
@@ -84,7 +84,7 @@
         },
         {
           "team": "D-backs",
-          "wins": 30,
+          "wins": 31,
           "losses": 24
         },
         {
@@ -98,9 +98,9 @@
           "losses": 25
         }
       ],
-      "total_wins": 143,
+      "total_wins": 145,
       "total_losses": 131,
-      "win_pct": ".522",
+      "win_pct": ".525",
       "rank": 3
     },
     {
@@ -142,7 +142,7 @@
       "teams": [
         {
           "team": "Mariners",
-          "wins": 27,
+          "wins": 28,
           "losses": 29
         },
         {
@@ -158,7 +158,7 @@
         {
           "team": "Athletics",
           "wins": 27,
-          "losses": 28
+          "losses": 29
         },
         {
           "team": "White Sox",
@@ -166,8 +166,8 @@
           "losses": 27
         }
       ],
-      "total_wins": 127,
-      "total_losses": 148,
+      "total_wins": 128,
+      "total_losses": 149,
       "win_pct": ".462",
       "rank": 5
     },
@@ -192,7 +192,7 @@
         {
           "team": "Giants",
           "wins": 22,
-          "losses": 33
+          "losses": 34
         },
         {
           "team": "Rockies",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 123,
-      "total_losses": 153,
-      "win_pct": ".446",
+      "total_losses": 154,
+      "win_pct": ".444",
       "rank": 6
     }
   ]

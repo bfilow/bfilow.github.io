@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30 04:44 UTC",
+  "last_updated": "2026-05-30 09:51 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -85,7 +85,7 @@
         {
           "team": "D-backs",
           "wins": 31,
-          "losses": 24
+          "losses": 25
         },
         {
           "team": "Pirates",
@@ -99,8 +99,8 @@
         }
       ],
       "total_wins": 149,
-      "total_losses": 134,
-      "win_pct": ".527",
+      "total_losses": 135,
+      "win_pct": ".525",
       "rank": 3
     },
     {
@@ -142,7 +142,7 @@
       "teams": [
         {
           "team": "Mariners",
-          "wins": 28,
+          "wins": 29,
           "losses": 29
         },
         {
@@ -166,9 +166,9 @@
           "losses": 27
         }
       ],
-      "total_wins": 133,
+      "total_wins": 134,
       "total_losses": 154,
-      "win_pct": ".463",
+      "win_pct": ".465",
       "rank": 5
     },
     {

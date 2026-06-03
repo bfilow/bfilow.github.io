@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 19:42 UTC",
+  "last_updated": "2026-06-03 22:24 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -27,12 +27,12 @@
         {
           "team": "Nationals",
           "wins": 31,
-          "losses": 31
+          "losses": 32
         }
       ],
       "total_wins": 167,
-      "total_losses": 134,
-      "win_pct": ".555",
+      "total_losses": 135,
+      "win_pct": ".553",
       "rank": 1
     },
     {
@@ -90,7 +90,7 @@
         {
           "team": "Twins",
           "wins": 29,
-          "losses": 33
+          "losses": 34
         },
         {
           "team": "Angels",
@@ -99,8 +99,8 @@
         }
       ],
       "total_wins": 158,
-      "total_losses": 148,
-      "win_pct": ".516",
+      "total_losses": 149,
+      "win_pct": ".515",
       "rank": 3
     },
     {
@@ -128,13 +128,13 @@
         },
         {
           "team": "Marlins",
-          "wins": 28,
+          "wins": 29,
           "losses": 34
         }
       ],
-      "total_wins": 146,
+      "total_wins": 147,
       "total_losses": 157,
-      "win_pct": ".482",
+      "win_pct": ".484",
       "rank": 4
     },
     {
@@ -143,7 +143,7 @@
         {
           "team": "Mariners",
           "wins": 33,
-          "losses": 29
+          "losses": 30
         },
         {
           "team": "Tigers",
@@ -162,12 +162,12 @@
         },
         {
           "team": "White Sox",
-          "wins": 32,
+          "wins": 33,
           "losses": 29
         }
       ],
-      "total_wins": 148,
-      "total_losses": 159,
+      "total_wins": 149,
+      "total_losses": 160,
       "win_pct": ".482",
       "rank": 5
     },
@@ -181,7 +181,7 @@
         },
         {
           "team": "Mets",
-          "wins": 26,
+          "wins": 27,
           "losses": 35
         },
         {
@@ -200,9 +200,9 @@
           "losses": 38
         }
       ],
-      "total_wins": 137,
+      "total_wins": 138,
       "total_losses": 169,
-      "win_pct": ".448",
+      "win_pct": ".450",
       "rank": 6
     }
   ]

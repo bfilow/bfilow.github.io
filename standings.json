@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 20:55 UTC",
+  "last_updated": "2026-06-06 23:57 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -16,23 +16,23 @@
         },
         {
           "team": "Astros",
-          "wins": 29,
+          "wins": 30,
           "losses": 36
         },
         {
           "team": "Rays",
           "wins": 37,
-          "losses": 23
+          "losses": 24
         },
         {
           "team": "Nationals",
-          "wins": 32,
+          "wins": 33,
           "losses": 32
         }
       ],
-      "total_wins": 173,
-      "total_losses": 140,
-      "win_pct": ".553",
+      "total_wins": 175,
+      "total_losses": 141,
+      "win_pct": ".554",
       "rank": 1
     },
     {
@@ -41,32 +41,32 @@
         {
           "team": "Phillies",
           "wins": 34,
-          "losses": 29
+          "losses": 30
         },
         {
           "team": "Blue Jays",
-          "wins": 30,
+          "wins": 31,
           "losses": 34
         },
         {
           "team": "D-backs",
           "wins": 33,
-          "losses": 30
+          "losses": 31
         },
         {
           "team": "Pirates",
           "wins": 34,
-          "losses": 30
+          "losses": 31
         },
         {
           "team": "Cardinals",
-          "wins": 33,
+          "wins": 34,
           "losses": 28
         }
       ],
-      "total_wins": 164,
-      "total_losses": 151,
-      "win_pct": ".521",
+      "total_wins": 166,
+      "total_losses": 154,
+      "win_pct": ".519",
       "rank": 2
     },
     {
@@ -90,7 +90,7 @@
         {
           "team": "Twins",
           "wins": 30,
-          "losses": 35
+          "losses": 36
         },
         {
           "team": "Angels",
@@ -99,9 +99,43 @@
         }
       ],
       "total_wins": 163,
-      "total_losses": 157,
-      "win_pct": ".509",
+      "total_losses": 158,
+      "win_pct": ".508",
       "rank": 3
+    },
+    {
+      "person": "Brian",
+      "teams": [
+        {
+          "team": "Cubs",
+          "wins": 34,
+          "losses": 31
+        },
+        {
+          "team": "Red Sox",
+          "wins": 27,
+          "losses": 35
+        },
+        {
+          "team": "Rangers",
+          "wins": 31,
+          "losses": 32
+        },
+        {
+          "team": "Reds",
+          "wins": 31,
+          "losses": 32
+        },
+        {
+          "team": "Marlins",
+          "wins": 30,
+          "losses": 35
+        }
+      ],
+      "total_wins": 153,
+      "total_losses": 165,
+      "win_pct": ".481",
+      "rank": 4
     },
     {
       "person": "Perry",
@@ -119,56 +153,22 @@
         {
           "team": "Orioles",
           "wins": 31,
-          "losses": 33
+          "losses": 34
         },
         {
           "team": "Athletics",
           "wins": 30,
-          "losses": 33
+          "losses": 34
         },
         {
           "team": "White Sox",
-          "wins": 33,
+          "wins": 34,
           "losses": 30
         }
       ],
-      "total_wins": 154,
-      "total_losses": 166,
-      "win_pct": ".481",
-      "rank": 4
-    },
-    {
-      "person": "Brian",
-      "teams": [
-        {
-          "team": "Cubs",
-          "wins": 33,
-          "losses": 31
-        },
-        {
-          "team": "Red Sox",
-          "wins": 27,
-          "losses": 35
-        },
-        {
-          "team": "Rangers",
-          "wins": 31,
-          "losses": 32
-        },
-        {
-          "team": "Reds",
-          "wins": 31,
-          "losses": 31
-        },
-        {
-          "team": "Marlins",
-          "wins": 29,
-          "losses": 35
-        }
-      ],
-      "total_wins": 151,
-      "total_losses": 164,
-      "win_pct": ".479",
+      "total_wins": 155,
+      "total_losses": 168,
+      "win_pct": ".480",
       "rank": 5
     },
     {
@@ -176,7 +176,7 @@
       "teams": [
         {
           "team": "Braves",
-          "wins": 43,
+          "wins": 44,
           "losses": 21
         },
         {
@@ -186,13 +186,13 @@
         },
         {
           "team": "Royals",
-          "wins": 25,
+          "wins": 26,
           "losses": 39
         },
         {
           "team": "Giants",
           "wins": 26,
-          "losses": 38
+          "losses": 39
         },
         {
           "team": "Rockies",
@@ -200,9 +200,9 @@
           "losses": 40
         }
       ],
-      "total_wins": 146,
-      "total_losses": 173,
-      "win_pct": ".458",
+      "total_wins": 148,
+      "total_losses": 174,
+      "win_pct": ".460",
       "rank": 6
     }
   ]

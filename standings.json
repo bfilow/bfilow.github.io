@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-07 17:06 UTC",
+  "last_updated": "2026-06-07 21:02 UTC",
   "standings": [
     {
       "person": "Rice",
       "teams": [
         {
           "team": "Yankees",
-          "wins": 37,
+          "wins": 38,
           "losses": 26
         },
         {
@@ -17,12 +17,12 @@
         {
           "team": "Astros",
           "wins": 30,
-          "losses": 36
+          "losses": 37
         },
         {
           "team": "Rays",
           "wins": 37,
-          "losses": 24
+          "losses": 25
         },
         {
           "team": "Nationals",
@@ -30,9 +30,9 @@
           "losses": 32
         }
       ],
-      "total_wins": 176,
-      "total_losses": 141,
-      "win_pct": ".555",
+      "total_wins": 177,
+      "total_losses": 143,
+      "win_pct": ".553",
       "rank": 1
     },
     {
@@ -40,12 +40,12 @@
       "teams": [
         {
           "team": "Phillies",
-          "wins": 34,
+          "wins": 35,
           "losses": 30
         },
         {
           "team": "Blue Jays",
-          "wins": 31,
+          "wins": 32,
           "losses": 34
         },
         {
@@ -56,17 +56,17 @@
         {
           "team": "Pirates",
           "wins": 34,
-          "losses": 31
+          "losses": 32
         },
         {
           "team": "Cardinals",
-          "wins": 34,
+          "wins": 35,
           "losses": 28
         }
       ],
-      "total_wins": 166,
-      "total_losses": 154,
-      "win_pct": ".519",
+      "total_wins": 169,
+      "total_losses": 155,
+      "win_pct": ".522",
       "rank": 2
     },
     {
@@ -104,6 +104,40 @@
       "rank": 3
     },
     {
+      "person": "Perry",
+      "teams": [
+        {
+          "team": "Mariners",
+          "wins": 34,
+          "losses": 32
+        },
+        {
+          "team": "Tigers",
+          "wins": 27,
+          "losses": 39
+        },
+        {
+          "team": "Orioles",
+          "wins": 31,
+          "losses": 35
+        },
+        {
+          "team": "Athletics",
+          "wins": 31,
+          "losses": 34
+        },
+        {
+          "team": "White Sox",
+          "wins": 34,
+          "losses": 31
+        }
+      ],
+      "total_wins": 157,
+      "total_losses": 171,
+      "win_pct": ".479",
+      "rank": 4
+    },
+    {
       "person": "Brian",
       "teams": [
         {
@@ -114,7 +148,7 @@
         {
           "team": "Red Sox",
           "wins": 27,
-          "losses": 35
+          "losses": 36
         },
         {
           "team": "Rangers",
@@ -124,51 +158,17 @@
         {
           "team": "Reds",
           "wins": 31,
-          "losses": 32
+          "losses": 33
         },
         {
           "team": "Marlins",
-          "wins": 30,
+          "wins": 31,
           "losses": 35
         }
       ],
-      "total_wins": 153,
-      "total_losses": 166,
-      "win_pct": ".480",
-      "rank": 4
-    },
-    {
-      "person": "Perry",
-      "teams": [
-        {
-          "team": "Mariners",
-          "wins": 34,
-          "losses": 31
-        },
-        {
-          "team": "Tigers",
-          "wins": 26,
-          "losses": 39
-        },
-        {
-          "team": "Orioles",
-          "wins": 31,
-          "losses": 34
-        },
-        {
-          "team": "Athletics",
-          "wins": 30,
-          "losses": 34
-        },
-        {
-          "team": "White Sox",
-          "wins": 34,
-          "losses": 30
-        }
-      ],
-      "total_wins": 155,
+      "total_wins": 154,
       "total_losses": 168,
-      "win_pct": ".480",
+      "win_pct": ".478",
       "rank": 5
     },
     {
@@ -176,7 +176,7 @@
       "teams": [
         {
           "team": "Braves",
-          "wins": 44,
+          "wins": 45,
           "losses": 21
         },
         {
@@ -200,9 +200,9 @@
           "losses": 41
         }
       ],
-      "total_wins": 148,
+      "total_wins": 149,
       "total_losses": 176,
-      "win_pct": ".457",
+      "win_pct": ".458",
       "rank": 6
     }
   ]

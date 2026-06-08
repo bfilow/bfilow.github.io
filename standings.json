@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08 00:00 UTC",
+  "last_updated": "2026-06-08 05:23 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -104,40 +104,6 @@
       "rank": 3
     },
     {
-      "person": "Brian",
-      "teams": [
-        {
-          "team": "Cubs",
-          "wins": 34,
-          "losses": 31
-        },
-        {
-          "team": "Red Sox",
-          "wins": 27,
-          "losses": 36
-        },
-        {
-          "team": "Rangers",
-          "wins": 32,
-          "losses": 33
-        },
-        {
-          "team": "Reds",
-          "wins": 31,
-          "losses": 33
-        },
-        {
-          "team": "Marlins",
-          "wins": 31,
-          "losses": 35
-        }
-      ],
-      "total_wins": 155,
-      "total_losses": 168,
-      "win_pct": ".480",
-      "rank": 4
-    },
-    {
       "person": "Perry",
       "teams": [
         {
@@ -169,6 +135,40 @@
       "total_wins": 157,
       "total_losses": 171,
       "win_pct": ".479",
+      "rank": 4
+    },
+    {
+      "person": "Brian",
+      "teams": [
+        {
+          "team": "Cubs",
+          "wins": 34,
+          "losses": 32
+        },
+        {
+          "team": "Red Sox",
+          "wins": 27,
+          "losses": 36
+        },
+        {
+          "team": "Rangers",
+          "wins": 32,
+          "losses": 33
+        },
+        {
+          "team": "Reds",
+          "wins": 31,
+          "losses": 33
+        },
+        {
+          "team": "Marlins",
+          "wins": 31,
+          "losses": 35
+        }
+      ],
+      "total_wins": 155,
+      "total_losses": 169,
+      "win_pct": ".478",
       "rank": 5
     },
     {
@@ -191,7 +191,7 @@
         },
         {
           "team": "Giants",
-          "wins": 26,
+          "wins": 27,
           "losses": 39
         },
         {
@@ -200,9 +200,9 @@
           "losses": 42
         }
       ],
-      "total_wins": 151,
+      "total_wins": 152,
       "total_losses": 177,
-      "win_pct": ".460",
+      "win_pct": ".462",
       "rank": 6
     }
   ]

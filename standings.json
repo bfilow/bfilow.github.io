@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 05:10 UTC",
+  "last_updated": "2026-06-10 11:31 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -80,7 +80,7 @@
         {
           "team": "Padres",
           "wins": 34,
-          "losses": 31
+          "losses": 32
         },
         {
           "team": "Guardians",
@@ -99,8 +99,8 @@
         }
       ],
       "total_wins": 170,
-      "total_losses": 167,
-      "win_pct": ".504",
+      "total_losses": 168,
+      "win_pct": ".503",
       "rank": 3
     },
     {
@@ -157,7 +157,7 @@
         },
         {
           "team": "Reds",
-          "wins": 31,
+          "wins": 32,
           "losses": 34
         },
         {
@@ -166,9 +166,9 @@
           "losses": 35
         }
       ],
-      "total_wins": 156,
+      "total_wins": 157,
       "total_losses": 174,
-      "win_pct": ".473",
+      "win_pct": ".474",
       "rank": 5
     },
     {

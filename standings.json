@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 21:51 UTC",
+  "last_updated": "2026-06-11 00:10 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -27,12 +27,12 @@
         {
           "team": "Nationals",
           "wins": 35,
-          "losses": 33
+          "losses": 34
         }
       ],
       "total_wins": 188,
-      "total_losses": 146,
-      "win_pct": ".563",
+      "total_losses": 147,
+      "win_pct": ".561",
       "rank": 1
     },
     {
@@ -79,7 +79,7 @@
         },
         {
           "team": "Padres",
-          "wins": 34,
+          "wins": 35,
           "losses": 32
         },
         {
@@ -98,9 +98,9 @@
           "losses": 42
         }
       ],
-      "total_wins": 170,
+      "total_wins": 171,
       "total_losses": 169,
-      "win_pct": ".501",
+      "win_pct": ".503",
       "rank": 3
     },
     {
@@ -158,7 +158,7 @@
         {
           "team": "Reds",
           "wins": 32,
-          "losses": 34
+          "losses": 35
         },
         {
           "team": "Marlins",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 157,
-      "total_losses": 175,
-      "win_pct": ".473",
+      "total_losses": 176,
+      "win_pct": ".471",
       "rank": 5
     },
     {
@@ -191,7 +191,7 @@
         },
         {
           "team": "Giants",
-          "wins": 27,
+          "wins": 28,
           "losses": 41
         },
         {
@@ -200,9 +200,9 @@
           "losses": 42
         }
       ],
-      "total_wins": 154,
+      "total_wins": 155,
       "total_losses": 181,
-      "win_pct": ".460",
+      "win_pct": ".461",
       "rank": 6
     }
   ]

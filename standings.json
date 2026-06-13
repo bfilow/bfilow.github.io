@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 17:14 UTC",
+  "last_updated": "2026-06-13 21:04 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -60,13 +60,13 @@
         },
         {
           "team": "Cardinals",
-          "wins": 37,
+          "wins": 38,
           "losses": 30
         }
       ],
-      "total_wins": 178,
+      "total_wins": 179,
       "total_losses": 167,
-      "win_pct": ".516",
+      "win_pct": ".517",
       "rank": 2
     },
     {
@@ -90,7 +90,7 @@
         {
           "team": "Twins",
           "wins": 32,
-          "losses": 39
+          "losses": 40
         },
         {
           "team": "Angels",
@@ -99,8 +99,8 @@
         }
       ],
       "total_wins": 177,
-      "total_losses": 173,
-      "win_pct": ".506",
+      "total_losses": 174,
+      "win_pct": ".504",
       "rank": 3
     },
     {

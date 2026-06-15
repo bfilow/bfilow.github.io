@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15 00:02 UTC",
+  "last_updated": "2026-06-15 06:17 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -148,11 +148,11 @@
         {
           "team": "Red Sox",
           "wins": 29,
-          "losses": 39
+          "losses": 40
         },
         {
           "team": "Rangers",
-          "wins": 34,
+          "wins": 35,
           "losses": 36
         },
         {
@@ -166,8 +166,8 @@
           "losses": 36
         }
       ],
-      "total_wins": 169,
-      "total_losses": 183,
+      "total_wins": 170,
+      "total_losses": 184,
       "win_pct": ".480",
       "rank": 5
     },

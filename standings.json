@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18 18:22 UTC",
+  "last_updated": "2026-06-18 21:59 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -12,7 +12,7 @@
         {
           "team": "Brewers",
           "wins": 45,
-          "losses": 26
+          "losses": 27
         },
         {
           "team": "Astros",
@@ -31,8 +31,8 @@
         }
       ],
       "total_wins": 205,
-      "total_losses": 160,
-      "win_pct": ".562",
+      "total_losses": 161,
+      "win_pct": ".560",
       "rank": 1
     },
     {
@@ -45,7 +45,7 @@
         },
         {
           "team": "Blue Jays",
-          "wins": 36,
+          "wins": 37,
           "losses": 38
         },
         {
@@ -64,9 +64,9 @@
           "losses": 32
         }
       ],
-      "total_wins": 192,
+      "total_wins": 193,
       "total_losses": 177,
-      "win_pct": ".520",
+      "win_pct": ".522",
       "rank": 2
     },
     {
@@ -84,12 +84,12 @@
         },
         {
           "team": "Guardians",
-          "wins": 39,
+          "wins": 40,
           "losses": 35
         },
         {
           "team": "Twins",
-          "wins": 35,
+          "wins": 36,
           "losses": 40
         },
         {
@@ -98,9 +98,9 @@
           "losses": 45
         }
       ],
-      "total_wins": 190,
+      "total_wins": 192,
       "total_losses": 182,
-      "win_pct": ".511",
+      "win_pct": ".513",
       "rank": 3
     },
     {
@@ -148,12 +148,12 @@
         {
           "team": "Red Sox",
           "wins": 29,
-          "losses": 42
+          "losses": 43
         },
         {
           "team": "Rangers",
           "wins": 35,
-          "losses": 38
+          "losses": 39
         },
         {
           "team": "Reds",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 175,
-      "total_losses": 192,
-      "win_pct": ".477",
+      "total_losses": 194,
+      "win_pct": ".474",
       "rank": 5
     },
     {

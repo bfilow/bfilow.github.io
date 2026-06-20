@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20 17:17 UTC",
+  "last_updated": "2026-06-20 21:06 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -7,7 +7,7 @@
         {
           "team": "Yankees",
           "wins": 46,
-          "losses": 28
+          "losses": 29
         },
         {
           "team": "Brewers",
@@ -31,8 +31,8 @@
         }
       ],
       "total_wins": 208,
-      "total_losses": 164,
-      "win_pct": ".559",
+      "total_losses": 165,
+      "win_pct": ".558",
       "rank": 1
     },
     {
@@ -104,40 +104,6 @@
       "rank": 3
     },
     {
-      "person": "Perry",
-      "teams": [
-        {
-          "team": "Mariners",
-          "wins": 39,
-          "losses": 38
-        },
-        {
-          "team": "Tigers",
-          "wins": 31,
-          "losses": 44
-        },
-        {
-          "team": "Orioles",
-          "wins": 35,
-          "losses": 42
-        },
-        {
-          "team": "Athletics",
-          "wins": 38,
-          "losses": 38
-        },
-        {
-          "team": "White Sox",
-          "wins": 39,
-          "losses": 35
-        }
-      ],
-      "total_wins": 182,
-      "total_losses": 197,
-      "win_pct": ".480",
-      "rank": 4
-    },
-    {
       "person": "Brian",
       "teams": [
         {
@@ -157,7 +123,7 @@
         },
         {
           "team": "Reds",
-          "wins": 35,
+          "wins": 36,
           "losses": 39
         },
         {
@@ -166,9 +132,43 @@
           "losses": 38
         }
       ],
-      "total_wins": 179,
+      "total_wins": 180,
       "total_losses": 195,
-      "win_pct": ".479",
+      "win_pct": ".480",
+      "rank": 4
+    },
+    {
+      "person": "Perry",
+      "teams": [
+        {
+          "team": "Mariners",
+          "wins": 39,
+          "losses": 38
+        },
+        {
+          "team": "Tigers",
+          "wins": 32,
+          "losses": 44
+        },
+        {
+          "team": "Orioles",
+          "wins": 35,
+          "losses": 42
+        },
+        {
+          "team": "Athletics",
+          "wins": 38,
+          "losses": 38
+        },
+        {
+          "team": "White Sox",
+          "wins": 39,
+          "losses": 36
+        }
+      ],
+      "total_wins": 183,
+      "total_losses": 198,
+      "win_pct": ".480",
       "rank": 5
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25 18:04 UTC",
+  "last_updated": "2026-06-25 21:23 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -21,7 +21,7 @@
         },
         {
           "team": "Rays",
-          "wins": 44,
+          "wins": 45,
           "losses": 33
         },
         {
@@ -30,9 +30,9 @@
           "losses": 40
         }
       ],
-      "total_wins": 221,
+      "total_wins": 222,
       "total_losses": 176,
-      "win_pct": ".557",
+      "win_pct": ".558",
       "rank": 1
     },
     {
@@ -55,7 +55,7 @@
         },
         {
           "team": "Pirates",
-          "wins": 40,
+          "wins": 41,
           "losses": 40
         },
         {
@@ -64,9 +64,9 @@
           "losses": 36
         }
       ],
-      "total_wins": 206,
+      "total_wins": 207,
       "total_losses": 192,
-      "win_pct": ".518",
+      "win_pct": ".519",
       "rank": 2
     },
     {
@@ -143,7 +143,7 @@
         {
           "team": "Mariners",
           "wins": 41,
-          "losses": 40
+          "losses": 41
         },
         {
           "team": "Tigers",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 192,
-      "total_losses": 210,
-      "win_pct": ".478",
+      "total_losses": 211,
+      "win_pct": ".476",
       "rank": 5
     },
     {
@@ -187,7 +187,7 @@
         {
           "team": "Royals",
           "wins": 34,
-          "losses": 47
+          "losses": 48
         },
         {
           "team": "Giants",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 181,
-      "total_losses": 219,
-      "win_pct": ".453",
+      "total_losses": 220,
+      "win_pct": ".451",
       "rank": 6
     }
   ]

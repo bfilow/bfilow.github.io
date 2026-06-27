@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27 17:00 UTC",
+  "last_updated": "2026-06-27 20:52 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -7,7 +7,7 @@
         {
           "team": "Yankees",
           "wins": 48,
-          "losses": 33
+          "losses": 34
         },
         {
           "team": "Brewers",
@@ -16,7 +16,7 @@
         },
         {
           "team": "Astros",
-          "wins": 40,
+          "wins": 41,
           "losses": 44
         },
         {
@@ -30,8 +30,8 @@
           "losses": 42
         }
       ],
-      "total_wins": 225,
-      "total_losses": 181,
+      "total_wins": 226,
+      "total_losses": 182,
       "win_pct": ".554",
       "rank": 1
     },
@@ -113,7 +113,7 @@
         },
         {
           "team": "Red Sox",
-          "wins": 34,
+          "wins": 35,
           "losses": 46
         },
         {
@@ -132,9 +132,9 @@
           "losses": 39
         }
       ],
-      "total_wins": 199,
+      "total_wins": 200,
       "total_losses": 207,
-      "win_pct": ".490",
+      "win_pct": ".491",
       "rank": 4
     },
     {
@@ -148,7 +148,7 @@
         {
           "team": "Tigers",
           "wins": 35,
-          "losses": 47
+          "losses": 48
         },
         {
           "team": "Orioles",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 198,
-      "total_losses": 212,
-      "win_pct": ".483",
+      "total_losses": 213,
+      "win_pct": ".482",
       "rank": 5
     },
     {

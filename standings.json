@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27 20:52 UTC",
+  "last_updated": "2026-06-27 23:55 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -46,7 +46,7 @@
         {
           "team": "Blue Jays",
           "wins": 39,
-          "losses": 43
+          "losses": 44
         },
         {
           "team": "D-backs",
@@ -56,7 +56,7 @@
         {
           "team": "Pirates",
           "wins": 41,
-          "losses": 41
+          "losses": 42
         },
         {
           "team": "Cardinals",
@@ -65,8 +65,8 @@
         }
       ],
       "total_wins": 209,
-      "total_losses": 197,
-      "win_pct": ".515",
+      "total_losses": 199,
+      "win_pct": ".512",
       "rank": 2
     },
     {
@@ -118,12 +118,12 @@
         },
         {
           "team": "Rangers",
-          "wins": 40,
+          "wins": 41,
           "losses": 42
         },
         {
           "team": "Reds",
-          "wins": 38,
+          "wins": 39,
           "losses": 42
         },
         {
@@ -132,9 +132,9 @@
           "losses": 39
         }
       ],
-      "total_wins": 200,
+      "total_wins": 202,
       "total_losses": 207,
-      "win_pct": ".491",
+      "win_pct": ".494",
       "rank": 4
     },
     {
@@ -162,13 +162,13 @@
         },
         {
           "team": "White Sox",
-          "wins": 42,
+          "wins": 43,
           "losses": 38
         }
       ],
-      "total_wins": 198,
+      "total_wins": 199,
       "total_losses": 213,
-      "win_pct": ".482",
+      "win_pct": ".483",
       "rank": 5
     },
     {
@@ -187,7 +187,7 @@
         {
           "team": "Royals",
           "wins": 34,
-          "losses": 49
+          "losses": 50
         },
         {
           "team": "Giants",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 182,
-      "total_losses": 226,
-      "win_pct": ".446",
+      "total_losses": 227,
+      "win_pct": ".445",
       "rank": 6
     }
   ]

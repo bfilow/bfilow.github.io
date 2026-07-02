@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02 17:31 UTC",
+  "last_updated": "2026-07-02 20:56 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -12,7 +12,7 @@
         {
           "team": "Brewers",
           "wins": 53,
-          "losses": 31
+          "losses": 32
         },
         {
           "team": "Astros",
@@ -31,8 +31,8 @@
         }
       ],
       "total_wins": 239,
-      "total_losses": 191,
-      "win_pct": ".556",
+      "total_losses": 192,
+      "win_pct": ".555",
       "rank": 1
     },
     {
@@ -41,7 +41,7 @@
         {
           "team": "Phillies",
           "wins": 49,
-          "losses": 38
+          "losses": 39
         },
         {
           "team": "Blue Jays",
@@ -55,7 +55,7 @@
         },
         {
           "team": "Pirates",
-          "wins": 43,
+          "wins": 44,
           "losses": 44
         },
         {
@@ -64,8 +64,8 @@
           "losses": 39
         }
       ],
-      "total_wins": 220,
-      "total_losses": 210,
+      "total_wins": 221,
+      "total_losses": 211,
       "win_pct": ".512",
       "rank": 2
     },
@@ -123,7 +123,7 @@
         },
         {
           "team": "Reds",
-          "wins": 39,
+          "wins": 40,
           "losses": 46
         },
         {
@@ -132,9 +132,9 @@
           "losses": 41
         }
       ],
-      "total_wins": 215,
+      "total_wins": 216,
       "total_losses": 216,
-      "win_pct": ".499",
+      "win_pct": ".500",
       "rank": 4
     },
     {

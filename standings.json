@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 04:43 UTC",
+  "last_updated": "2026-07-07 10:48 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -74,7 +74,7 @@
       "teams": [
         {
           "team": "Dodgers",
-          "wins": 59,
+          "wins": 60,
           "losses": 32
         },
         {
@@ -98,9 +98,9 @@
           "losses": 55
         }
       ],
-      "total_wins": 230,
+      "total_wins": 231,
       "total_losses": 224,
-      "win_pct": ".507",
+      "win_pct": ".508",
       "rank": 3
     },
     {
@@ -197,12 +197,12 @@
         {
           "team": "Rockies",
           "wins": 37,
-          "losses": 54
+          "losses": 55
         }
       ],
       "total_wins": 202,
-      "total_losses": 250,
-      "win_pct": ".447",
+      "total_losses": 251,
+      "win_pct": ".446",
       "rank": 6
     }
   ]

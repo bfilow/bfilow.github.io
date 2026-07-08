@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 04:09 UTC",
+  "last_updated": "2026-07-08 10:08 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -45,7 +45,7 @@
         },
         {
           "team": "Blue Jays",
-          "wins": 42,
+          "wins": 43,
           "losses": 49
         },
         {
@@ -64,9 +64,9 @@
           "losses": 43
         }
       ],
-      "total_wins": 232,
+      "total_wins": 233,
       "total_losses": 224,
-      "win_pct": ".509",
+      "win_pct": ".510",
       "rank": 2
     },
     {
@@ -75,7 +75,7 @@
         {
           "team": "Dodgers",
           "wins": 60,
-          "losses": 32
+          "losses": 33
         },
         {
           "team": "Padres",
@@ -99,8 +99,8 @@
         }
       ],
       "total_wins": 233,
-      "total_losses": 226,
-      "win_pct": ".508",
+      "total_losses": 227,
+      "win_pct": ".507",
       "rank": 3
     },
     {
@@ -192,16 +192,16 @@
         {
           "team": "Giants",
           "wins": 38,
-          "losses": 52
+          "losses": 53
         },
         {
           "team": "Rockies",
-          "wins": 37,
+          "wins": 38,
           "losses": 55
         }
       ],
-      "total_wins": 203,
-      "total_losses": 253,
+      "total_wins": 204,
+      "total_losses": 254,
       "win_pct": ".445",
       "rank": 6
     }

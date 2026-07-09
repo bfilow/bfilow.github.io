@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09 04:43 UTC",
+  "last_updated": "2026-07-09 10:51 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -36,36 +36,36 @@
       "rank": 1
     },
     {
-      "person": "Tim",
+      "person": "Hudson",
       "teams": [
         {
-          "team": "Phillies",
-          "wins": 51,
-          "losses": 42
+          "team": "Dodgers",
+          "wins": 61,
+          "losses": 33
         },
         {
-          "team": "Blue Jays",
-          "wins": 44,
-          "losses": 49
-        },
-        {
-          "team": "D-backs",
-          "wins": 45,
+          "team": "Padres",
+          "wins": 46,
           "losses": 46
         },
         {
-          "team": "Pirates",
+          "team": "Guardians",
           "wins": 47,
           "losses": 46
         },
         {
-          "team": "Cardinals",
-          "wins": 48,
-          "losses": 43
+          "team": "Twins",
+          "wins": 46,
+          "losses": 47
+        },
+        {
+          "team": "Angels",
+          "wins": 37,
+          "losses": 56
         }
       ],
-      "total_wins": 235,
-      "total_losses": 226,
+      "total_wins": 237,
+      "total_losses": 228,
       "win_pct": ".510",
       "rank": 2
     },
@@ -104,36 +104,36 @@
       "rank": 3
     },
     {
-      "person": "Hudson",
+      "person": "Tim",
       "teams": [
         {
-          "team": "Dodgers",
-          "wins": 61,
-          "losses": 33
+          "team": "Phillies",
+          "wins": 51,
+          "losses": 42
         },
         {
-          "team": "Padres",
+          "team": "Blue Jays",
+          "wins": 44,
+          "losses": 49
+        },
+        {
+          "team": "D-backs",
           "wins": 45,
-          "losses": 46
+          "losses": 47
         },
         {
-          "team": "Guardians",
+          "team": "Pirates",
           "wins": 47,
           "losses": 46
         },
         {
-          "team": "Twins",
-          "wins": 46,
-          "losses": 47
-        },
-        {
-          "team": "Angels",
-          "wins": 37,
-          "losses": 56
+          "team": "Cardinals",
+          "wins": 48,
+          "losses": 43
         }
       ],
-      "total_wins": 236,
-      "total_losses": 228,
+      "total_wins": 235,
+      "total_losses": 227,
       "win_pct": ".509",
       "rank": 4
     },

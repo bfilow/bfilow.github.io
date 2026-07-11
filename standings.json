@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11 16:45 UTC",
+  "last_updated": "2026-07-11 20:39 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -12,7 +12,7 @@
         {
           "team": "Brewers",
           "wins": 59,
-          "losses": 34
+          "losses": 35
         },
         {
           "team": "Astros",
@@ -31,9 +31,43 @@
         }
       ],
       "total_wins": 260,
-      "total_losses": 210,
-      "win_pct": ".553",
+      "total_losses": 211,
+      "win_pct": ".552",
       "rank": 1
+    },
+    {
+      "person": "Tim",
+      "teams": [
+        {
+          "team": "Phillies",
+          "wins": 52,
+          "losses": 43
+        },
+        {
+          "team": "Blue Jays",
+          "wins": 45,
+          "losses": 49
+        },
+        {
+          "team": "D-backs",
+          "wins": 47,
+          "losses": 47
+        },
+        {
+          "team": "Pirates",
+          "wins": 48,
+          "losses": 47
+        },
+        {
+          "team": "Cardinals",
+          "wins": 49,
+          "losses": 44
+        }
+      ],
+      "total_wins": 241,
+      "total_losses": 230,
+      "win_pct": ".512",
+      "rank": 2
     },
     {
       "person": "Brian",
@@ -66,40 +100,6 @@
       ],
       "total_wins": 239,
       "total_losses": 229,
-      "win_pct": ".511",
-      "rank": 2
-    },
-    {
-      "person": "Tim",
-      "teams": [
-        {
-          "team": "Phillies",
-          "wins": 52,
-          "losses": 43
-        },
-        {
-          "team": "Blue Jays",
-          "wins": 45,
-          "losses": 49
-        },
-        {
-          "team": "D-backs",
-          "wins": 47,
-          "losses": 47
-        },
-        {
-          "team": "Pirates",
-          "wins": 47,
-          "losses": 47
-        },
-        {
-          "team": "Cardinals",
-          "wins": 49,
-          "losses": 44
-        }
-      ],
-      "total_wins": 240,
-      "total_losses": 230,
       "win_pct": ".511",
       "rank": 3
     },
@@ -158,16 +158,16 @@
         {
           "team": "Athletics",
           "wins": 41,
-          "losses": 53
+          "losses": 54
         },
         {
           "team": "White Sox",
-          "wins": 48,
+          "wins": 49,
           "losses": 45
         }
       ],
-      "total_wins": 224,
-      "total_losses": 247,
+      "total_wins": 225,
+      "total_losses": 248,
       "win_pct": ".476",
       "rank": 5
     },

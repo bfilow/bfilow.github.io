@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 23:44 UTC",
+  "last_updated": "2026-07-18 03:48 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -7,22 +7,22 @@
         {
           "team": "Yankees",
           "wins": 54,
-          "losses": 42
+          "losses": 43
         },
         {
           "team": "Brewers",
-          "wins": 59,
+          "wins": 60,
           "losses": 37
         },
         {
           "team": "Astros",
           "wins": 47,
-          "losses": 51
+          "losses": 52
         },
         {
           "team": "Rays",
           "wins": 56,
-          "losses": 39
+          "losses": 40
         },
         {
           "team": "Nationals",
@@ -30,9 +30,9 @@
           "losses": 49
         }
       ],
-      "total_wins": 264,
-      "total_losses": 218,
-      "win_pct": ".548",
+      "total_wins": 265,
+      "total_losses": 221,
+      "win_pct": ".545",
       "rank": 1
     },
     {
@@ -46,7 +46,7 @@
         {
           "team": "Blue Jays",
           "wins": 45,
-          "losses": 51
+          "losses": 52
         },
         {
           "team": "D-backs",
@@ -65,8 +65,8 @@
         }
       ],
       "total_wins": 248,
-      "total_losses": 234,
-      "win_pct": ".515",
+      "total_losses": 235,
+      "win_pct": ".513",
       "rank": 2
     },
     {
@@ -75,32 +75,32 @@
         {
           "team": "Cubs",
           "wins": 54,
-          "losses": 42
+          "losses": 43
         },
         {
           "team": "Red Sox",
-          "wins": 47,
+          "wins": 48,
           "losses": 48
         },
         {
           "team": "Rangers",
           "wins": 49,
-          "losses": 47
+          "losses": 48
         },
         {
           "team": "Reds",
-          "wins": 43,
+          "wins": 44,
           "losses": 52
         },
         {
           "team": "Marlins",
           "wins": 52,
-          "losses": 45
+          "losses": 46
         }
       ],
-      "total_wins": 245,
-      "total_losses": 234,
-      "win_pct": ".511",
+      "total_wins": 247,
+      "total_losses": 237,
+      "win_pct": ".510",
       "rank": 3
     },
     {
@@ -108,13 +108,13 @@
       "teams": [
         {
           "team": "Dodgers",
-          "wins": 61,
+          "wins": 62,
           "losses": 36
         },
         {
           "team": "Padres",
           "wins": 48,
-          "losses": 48
+          "losses": 49
         },
         {
           "team": "Guardians",
@@ -123,7 +123,7 @@
         },
         {
           "team": "Twins",
-          "wins": 48,
+          "wins": 49,
           "losses": 49
         },
         {
@@ -132,9 +132,9 @@
           "losses": 59
         }
       ],
-      "total_wins": 246,
-      "total_losses": 238,
-      "win_pct": ".508",
+      "total_wins": 248,
+      "total_losses": 239,
+      "win_pct": ".509",
       "rank": 4
     },
     {
@@ -152,7 +152,7 @@
         },
         {
           "team": "Orioles",
-          "wins": 46,
+          "wins": 47,
           "losses": 51
         },
         {
@@ -162,13 +162,13 @@
         },
         {
           "team": "White Sox",
-          "wins": 50,
+          "wins": 51,
           "losses": 45
         }
       ],
-      "total_wins": 229,
+      "total_wins": 231,
       "total_losses": 252,
-      "win_pct": ".476",
+      "win_pct": ".478",
       "rank": 5
     },
     {
@@ -176,7 +176,7 @@
       "teams": [
         {
           "team": "Braves",
-          "wins": 55,
+          "wins": 56,
           "losses": 40
         },
         {
@@ -186,7 +186,7 @@
         },
         {
           "team": "Royals",
-          "wins": 38,
+          "wins": 39,
           "losses": 59
         },
         {
@@ -197,12 +197,12 @@
         {
           "team": "Rockies",
           "wins": 39,
-          "losses": 59
+          "losses": 60
         }
       ],
-      "total_wins": 214,
-      "total_losses": 270,
-      "win_pct": ".442",
+      "total_wins": 216,
+      "total_losses": 271,
+      "win_pct": ".444",
       "rank": 6
     }
   ]

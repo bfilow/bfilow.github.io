@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-19 23:49 UTC",
+  "last_updated": "2026-07-20 04:31 UTC",
   "standings": [
     {
       "person": "Rice",
       "teams": [
         {
           "team": "Yankees",
-          "wins": 54,
+          "wins": 55,
           "losses": 44
         },
         {
@@ -30,9 +30,9 @@
           "losses": 50
         }
       ],
-      "total_wins": 269,
+      "total_wins": 270,
       "total_losses": 227,
-      "win_pct": ".542",
+      "win_pct": ".543",
       "rank": 1
     },
     {
@@ -109,7 +109,7 @@
         {
           "team": "Dodgers",
           "wins": 63,
-          "losses": 36
+          "losses": 37
         },
         {
           "team": "Padres",
@@ -133,8 +133,8 @@
         }
       ],
       "total_wins": 252,
-      "total_losses": 246,
-      "win_pct": ".506",
+      "total_losses": 247,
+      "win_pct": ".505",
       "rank": 4
     },
     {

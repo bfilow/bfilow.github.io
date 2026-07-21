@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21 04:10 UTC",
+  "last_updated": "2026-07-21 10:17 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -51,7 +51,7 @@
         {
           "team": "D-backs",
           "wins": 51,
-          "losses": 48
+          "losses": 49
         },
         {
           "team": "Pirates",
@@ -61,12 +61,12 @@
         {
           "team": "Cardinals",
           "wins": 51,
-          "losses": 47
+          "losses": 48
         }
       ],
       "total_wins": 256,
-      "total_losses": 243,
-      "win_pct": ".513",
+      "total_losses": 245,
+      "win_pct": ".511",
       "rank": 2
     },
     {
@@ -90,7 +90,7 @@
         {
           "team": "Reds",
           "wins": 45,
-          "losses": 53
+          "losses": 54
         },
         {
           "team": "Marlins",
@@ -99,8 +99,8 @@
         }
       ],
       "total_wins": 254,
-      "total_losses": 244,
-      "win_pct": ".510",
+      "total_losses": 245,
+      "win_pct": ".509",
       "rank": 3
     },
     {
@@ -128,13 +128,13 @@
         },
         {
           "team": "Angels",
-          "wins": 39,
+          "wins": 40,
           "losses": 61
         }
       ],
-      "total_wins": 253,
+      "total_wins": 254,
       "total_losses": 250,
-      "win_pct": ".503",
+      "win_pct": ".504",
       "rank": 4
     },
     {
@@ -142,7 +142,7 @@
       "teams": [
         {
           "team": "Mariners",
-          "wins": 50,
+          "wins": 51,
           "losses": 50
         },
         {
@@ -157,7 +157,7 @@
         },
         {
           "team": "Athletics",
-          "wins": 42,
+          "wins": 43,
           "losses": 57
         },
         {
@@ -166,9 +166,9 @@
           "losses": 46
         }
       ],
-      "total_wins": 241,
+      "total_wins": 243,
       "total_losses": 258,
-      "win_pct": ".483",
+      "win_pct": ".485",
       "rank": 5
     },
     {

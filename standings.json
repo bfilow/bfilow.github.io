@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 20:53 UTC",
+  "last_updated": "2026-07-23 23:53 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -22,7 +22,7 @@
         {
           "team": "Rays",
           "wins": 59,
-          "losses": 42
+          "losses": 43
         },
         {
           "team": "Nationals",
@@ -31,9 +31,43 @@
         }
       ],
       "total_wins": 282,
-      "total_losses": 230,
-      "win_pct": ".551",
+      "total_losses": 231,
+      "win_pct": ".550",
       "rank": 1
+    },
+    {
+      "person": "Tim",
+      "teams": [
+        {
+          "team": "Phillies",
+          "wins": 56,
+          "losses": 47
+        },
+        {
+          "team": "Blue Jays",
+          "wins": 47,
+          "losses": 56
+        },
+        {
+          "team": "D-backs",
+          "wins": 53,
+          "losses": 49
+        },
+        {
+          "team": "Pirates",
+          "wins": 53,
+          "losses": 50
+        },
+        {
+          "team": "Cardinals",
+          "wins": 52,
+          "losses": 49
+        }
+      ],
+      "total_wins": 261,
+      "total_losses": 251,
+      "win_pct": ".510",
+      "rank": 2
     },
     {
       "person": "Brian",
@@ -66,40 +100,6 @@
       ],
       "total_wins": 259,
       "total_losses": 250,
-      "win_pct": ".509",
-      "rank": 2
-    },
-    {
-      "person": "Tim",
-      "teams": [
-        {
-          "team": "Phillies",
-          "wins": 56,
-          "losses": 47
-        },
-        {
-          "team": "Blue Jays",
-          "wins": 46,
-          "losses": 56
-        },
-        {
-          "team": "D-backs",
-          "wins": 53,
-          "losses": 49
-        },
-        {
-          "team": "Pirates",
-          "wins": 53,
-          "losses": 50
-        },
-        {
-          "team": "Cardinals",
-          "wins": 52,
-          "losses": 49
-        }
-      ],
-      "total_wins": 260,
-      "total_losses": 251,
       "win_pct": ".509",
       "rank": 3
     },

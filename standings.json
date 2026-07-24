@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 23:53 UTC",
+  "last_updated": "2026-07-24 04:08 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -50,7 +50,7 @@
         },
         {
           "team": "D-backs",
-          "wins": 53,
+          "wins": 54,
           "losses": 49
         },
         {
@@ -61,11 +61,11 @@
         {
           "team": "Cardinals",
           "wins": 52,
-          "losses": 49
+          "losses": 50
         }
       ],
-      "total_wins": 261,
-      "total_losses": 251,
+      "total_wins": 262,
+      "total_losses": 252,
       "win_pct": ".510",
       "rank": 2
     },
@@ -147,7 +147,7 @@
         },
         {
           "team": "Tigers",
-          "wins": 48,
+          "wins": 49,
           "losses": 54
         },
         {
@@ -166,9 +166,9 @@
           "losses": 47
         }
       ],
-      "total_wins": 246,
+      "total_wins": 247,
       "total_losses": 265,
-      "win_pct": ".481",
+      "win_pct": ".482",
       "rank": 5
     },
     {
@@ -187,7 +187,7 @@
         {
           "team": "Royals",
           "wins": 43,
-          "losses": 60
+          "losses": 61
         },
         {
           "team": "Giants",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 229,
-      "total_losses": 285,
-      "win_pct": ".446",
+      "total_losses": 286,
+      "win_pct": ".445",
       "rank": 6
     }
   ]

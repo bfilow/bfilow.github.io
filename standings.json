@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 20:55 UTC",
+  "last_updated": "2026-07-24 23:57 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -12,7 +12,7 @@
         {
           "team": "Brewers",
           "wins": 64,
-          "losses": 38
+          "losses": 39
         },
         {
           "team": "Astros",
@@ -31,8 +31,8 @@
         }
       ],
       "total_wins": 282,
-      "total_losses": 231,
-      "win_pct": ".550",
+      "total_losses": 232,
+      "win_pct": ".549",
       "rank": 1
     },
     {
@@ -196,13 +196,13 @@
         },
         {
           "team": "Rockies",
-          "wins": 41,
+          "wins": 42,
           "losses": 63
         }
       ],
-      "total_wins": 229,
+      "total_wins": 230,
       "total_losses": 286,
-      "win_pct": ".445",
+      "win_pct": ".446",
       "rank": 6
     }
   ]

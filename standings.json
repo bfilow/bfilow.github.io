@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 17:16 UTC",
+  "last_updated": "2026-07-30 20:57 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -21,7 +21,7 @@
         },
         {
           "team": "Rays",
-          "wins": 63,
+          "wins": 64,
           "losses": 44
         },
         {
@@ -30,9 +30,9 @@
           "losses": 54
         }
       ],
-      "total_wins": 301,
+      "total_wins": 302,
       "total_losses": 241,
-      "win_pct": ".555",
+      "win_pct": ".556",
       "rank": 1
     },
     {
@@ -51,7 +51,7 @@
         {
           "team": "Rangers",
           "wins": 55,
-          "losses": 53
+          "losses": 54
         },
         {
           "team": "Reds",
@@ -65,8 +65,8 @@
         }
       ],
       "total_wins": 277,
-      "total_losses": 262,
-      "win_pct": ".514",
+      "total_losses": 263,
+      "win_pct": ".513",
       "rank": 2
     },
     {
@@ -89,7 +89,7 @@
         },
         {
           "team": "Twins",
-          "wins": 54,
+          "wins": 55,
           "losses": 55
         },
         {
@@ -98,7 +98,7 @@
           "losses": 67
         }
       ],
-      "total_wins": 275,
+      "total_wins": 276,
       "total_losses": 269,
       "win_pct": ".506",
       "rank": 3
@@ -187,7 +187,7 @@
         {
           "team": "Royals",
           "wins": 46,
-          "losses": 63
+          "losses": 64
         },
         {
           "team": "Giants",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 243,
-      "total_losses": 300,
-      "win_pct": ".448",
+      "total_losses": 301,
+      "win_pct": ".447",
       "rank": 6
     }
   ]

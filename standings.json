@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 23:54 UTC",
+  "last_updated": "2026-08-01 04:16 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -16,23 +16,23 @@
         },
         {
           "team": "Astros",
-          "wins": 55,
+          "wins": 56,
           "losses": 55
         },
         {
           "team": "Rays",
           "wins": 64,
-          "losses": 44
+          "losses": 45
         },
         {
           "team": "Nationals",
           "wins": 55,
-          "losses": 55
+          "losses": 56
         }
       ],
-      "total_wins": 303,
-      "total_losses": 243,
-      "win_pct": ".555",
+      "total_wins": 304,
+      "total_losses": 245,
+      "win_pct": ".554",
       "rank": 1
     },
     {
@@ -51,22 +51,22 @@
         {
           "team": "Rangers",
           "wins": 55,
-          "losses": 54
+          "losses": 55
         },
         {
           "team": "Reds",
-          "wins": 51,
+          "wins": 52,
           "losses": 57
         },
         {
           "team": "Marlins",
-          "wins": 55,
+          "wins": 56,
           "losses": 55
         }
       ],
-      "total_wins": 280,
-      "total_losses": 265,
-      "win_pct": ".514",
+      "total_wins": 282,
+      "total_losses": 266,
+      "win_pct": ".515",
       "rank": 2
     },
     {
@@ -85,7 +85,7 @@
         {
           "team": "Guardians",
           "wins": 56,
-          "losses": 54
+          "losses": 55
         },
         {
           "team": "Twins",
@@ -99,8 +99,8 @@
         }
       ],
       "total_wins": 277,
-      "total_losses": 270,
-      "win_pct": ".506",
+      "total_losses": 271,
+      "win_pct": ".505",
       "rank": 3
     },
     {
@@ -109,32 +109,32 @@
         {
           "team": "Phillies",
           "wins": 57,
-          "losses": 52
+          "losses": 53
         },
         {
           "team": "Blue Jays",
-          "wins": 50,
+          "wins": 51,
           "losses": 59
         },
         {
           "team": "D-backs",
-          "wins": 57,
+          "wins": 58,
           "losses": 52
         },
         {
           "team": "Pirates",
           "wins": 55,
-          "losses": 55
+          "losses": 56
         },
         {
           "team": "Cardinals",
           "wins": 54,
-          "losses": 55
+          "losses": 56
         }
       ],
-      "total_wins": 273,
-      "total_losses": 273,
-      "win_pct": ".500",
+      "total_wins": 275,
+      "total_losses": 276,
+      "win_pct": ".499",
       "rank": 4
     },
     {
@@ -152,7 +152,7 @@
         },
         {
           "team": "Orioles",
-          "wins": 53,
+          "wins": 54,
           "losses": 56
         },
         {
@@ -162,13 +162,13 @@
         },
         {
           "team": "White Sox",
-          "wins": 57,
+          "wins": 58,
           "losses": 51
         }
       ],
-      "total_wins": 259,
+      "total_wins": 261,
       "total_losses": 286,
-      "win_pct": ".475",
+      "win_pct": ".477",
       "rank": 5
     },
     {
@@ -176,18 +176,18 @@
       "teams": [
         {
           "team": "Braves",
-          "wins": 64,
+          "wins": 65,
           "losses": 45
         },
         {
           "team": "Mets",
           "wins": 47,
-          "losses": 63
+          "losses": 64
         },
         {
           "team": "Royals",
           "wins": 46,
-          "losses": 64
+          "losses": 65
         },
         {
           "team": "Giants",
@@ -196,12 +196,12 @@
         },
         {
           "team": "Rockies",
-          "wins": 42,
+          "wins": 43,
           "losses": 67
         }
       ],
-      "total_wins": 246,
-      "total_losses": 301,
+      "total_wins": 248,
+      "total_losses": 303,
       "win_pct": ".450",
       "rank": 6
     }

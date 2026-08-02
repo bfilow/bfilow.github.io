@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 16:50 UTC",
+  "last_updated": "2026-08-02 20:43 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -22,17 +22,17 @@
         {
           "team": "Rays",
           "wins": 65,
-          "losses": 45
+          "losses": 46
         },
         {
           "team": "Nationals",
           "wins": 55,
-          "losses": 57
+          "losses": 58
         }
       ],
       "total_wins": 308,
-      "total_losses": 247,
-      "win_pct": ".555",
+      "total_losses": 249,
+      "win_pct": ".553",
       "rank": 1
     },
     {
@@ -60,13 +60,13 @@
         },
         {
           "team": "Marlins",
-          "wins": 57,
+          "wins": 58,
           "losses": 55
         }
       ],
-      "total_wins": 286,
+      "total_wins": 287,
       "total_losses": 268,
-      "win_pct": ".516",
+      "win_pct": ".517",
       "rank": 2
     },
     {
@@ -114,7 +114,7 @@
         {
           "team": "Blue Jays",
           "wins": 52,
-          "losses": 59
+          "losses": 60
         },
         {
           "team": "D-backs",
@@ -128,12 +128,12 @@
         },
         {
           "team": "Cardinals",
-          "wins": 54,
+          "wins": 55,
           "losses": 57
         }
       ],
-      "total_wins": 279,
-      "total_losses": 277,
+      "total_wins": 280,
+      "total_losses": 278,
       "win_pct": ".502",
       "rank": 4
     },
@@ -162,13 +162,13 @@
         },
         {
           "team": "White Sox",
-          "wins": 58,
+          "wins": 59,
           "losses": 52
         }
       ],
-      "total_wins": 264,
+      "total_wins": 265,
       "total_losses": 291,
-      "win_pct": ".476",
+      "win_pct": ".477",
       "rank": 5
     },
     {
@@ -176,13 +176,13 @@
       "teams": [
         {
           "team": "Braves",
-          "wins": 66,
+          "wins": 67,
           "losses": 45
         },
         {
           "team": "Mets",
           "wins": 47,
-          "losses": 65
+          "losses": 66
         },
         {
           "team": "Royals",
@@ -200,8 +200,8 @@
           "losses": 67
         }
       ],
-      "total_wins": 250,
-      "total_losses": 307,
+      "total_wins": 251,
+      "total_losses": 308,
       "win_pct": ".449",
       "rank": 6
     }

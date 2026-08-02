@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 04:19 UTC",
+  "last_updated": "2026-08-02 09:49 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -147,7 +147,7 @@
         },
         {
           "team": "Tigers",
-          "wins": 52,
+          "wins": 53,
           "losses": 58
         },
         {
@@ -158,7 +158,7 @@
         {
           "team": "Athletics",
           "wins": 45,
-          "losses": 65
+          "losses": 66
         },
         {
           "team": "White Sox",
@@ -166,8 +166,8 @@
           "losses": 52
         }
       ],
-      "total_wins": 263,
-      "total_losses": 290,
+      "total_wins": 264,
+      "total_losses": 291,
       "win_pct": ".476",
       "rank": 5
     },

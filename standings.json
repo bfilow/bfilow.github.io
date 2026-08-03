@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 23:51 UTC",
+  "last_updated": "2026-08-03 04:24 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -45,7 +45,7 @@
         },
         {
           "team": "Red Sox",
-          "wins": 59,
+          "wins": 60,
           "losses": 51
         },
         {
@@ -64,9 +64,9 @@
           "losses": 55
         }
       ],
-      "total_wins": 288,
+      "total_wins": 289,
       "total_losses": 270,
-      "win_pct": ".516",
+      "win_pct": ".517",
       "rank": 2
     },
     {
@@ -75,7 +75,7 @@
         {
           "team": "Dodgers",
           "wins": 69,
-          "losses": 42
+          "losses": 43
         },
         {
           "team": "Padres",
@@ -99,7 +99,7 @@
         }
       ],
       "total_wins": 283,
-      "total_losses": 278,
+      "total_losses": 279,
       "win_pct": ".504",
       "rank": 3
     },

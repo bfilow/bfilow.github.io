@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04 00:01 UTC",
+  "last_updated": "2026-08-04 03:58 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -7,32 +7,32 @@
         {
           "team": "Yankees",
           "wins": 63,
-          "losses": 49
+          "losses": 50
         },
         {
           "team": "Brewers",
           "wins": 69,
-          "losses": 42
+          "losses": 43
         },
         {
           "team": "Astros",
           "wins": 58,
-          "losses": 55
+          "losses": 56
         },
         {
           "team": "Rays",
-          "wins": 65,
+          "wins": 66,
           "losses": 46
         },
         {
           "team": "Nationals",
           "wins": 55,
-          "losses": 58
+          "losses": 59
         }
       ],
-      "total_wins": 310,
-      "total_losses": 250,
-      "win_pct": ".554",
+      "total_wins": 311,
+      "total_losses": 254,
+      "win_pct": ".550",
       "rank": 1
     },
     {
@@ -40,7 +40,7 @@
       "teams": [
         {
           "team": "Cubs",
-          "wins": 63,
+          "wins": 64,
           "losses": 49
         },
         {
@@ -51,7 +51,7 @@
         {
           "team": "Rangers",
           "wins": 55,
-          "losses": 57
+          "losses": 58
         },
         {
           "team": "Reds",
@@ -64,10 +64,44 @@
           "losses": 55
         }
       ],
-      "total_wins": 289,
-      "total_losses": 270,
+      "total_wins": 290,
+      "total_losses": 271,
       "win_pct": ".517",
       "rank": 2
+    },
+    {
+      "person": "Tim",
+      "teams": [
+        {
+          "team": "Phillies",
+          "wins": 60,
+          "losses": 53
+        },
+        {
+          "team": "Blue Jays",
+          "wins": 53,
+          "losses": 60
+        },
+        {
+          "team": "D-backs",
+          "wins": 59,
+          "losses": 53
+        },
+        {
+          "team": "Pirates",
+          "wins": 57,
+          "losses": 57
+        },
+        {
+          "team": "Cardinals",
+          "wins": 56,
+          "losses": 57
+        }
+      ],
+      "total_wins": 285,
+      "total_losses": 280,
+      "win_pct": ".504",
+      "rank": 3
     },
     {
       "person": "Hudson",
@@ -75,7 +109,7 @@
         {
           "team": "Dodgers",
           "wins": 69,
-          "losses": 43
+          "losses": 44
         },
         {
           "team": "Padres",
@@ -99,42 +133,8 @@
         }
       ],
       "total_wins": 283,
-      "total_losses": 279,
-      "win_pct": ".504",
-      "rank": 3
-    },
-    {
-      "person": "Tim",
-      "teams": [
-        {
-          "team": "Phillies",
-          "wins": 59,
-          "losses": 53
-        },
-        {
-          "team": "Blue Jays",
-          "wins": 52,
-          "losses": 60
-        },
-        {
-          "team": "D-backs",
-          "wins": 59,
-          "losses": 53
-        },
-        {
-          "team": "Pirates",
-          "wins": 56,
-          "losses": 57
-        },
-        {
-          "team": "Cardinals",
-          "wins": 55,
-          "losses": 57
-        }
-      ],
-      "total_wins": 281,
       "total_losses": 280,
-      "win_pct": ".501",
+      "win_pct": ".503",
       "rank": 4
     },
     {
@@ -191,18 +191,18 @@
         },
         {
           "team": "Giants",
-          "wins": 47,
+          "wins": 48,
           "losses": 65
         },
         {
           "team": "Rockies",
           "wins": 45,
-          "losses": 67
+          "losses": 68
         }
       ],
-      "total_wins": 252,
-      "total_losses": 310,
-      "win_pct": ".448",
+      "total_wins": 253,
+      "total_losses": 311,
+      "win_pct": ".449",
       "rank": 6
     }
   ]

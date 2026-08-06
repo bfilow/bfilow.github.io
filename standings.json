@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06 03:58 UTC",
+  "last_updated": "2026-08-06 06:31 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -84,7 +84,7 @@
         },
         {
           "team": "D-backs",
-          "wins": 60,
+          "wins": 61,
           "losses": 54
         },
         {
@@ -98,7 +98,7 @@
           "losses": 58
         }
       ],
-      "total_wins": 289,
+      "total_wins": 290,
       "total_losses": 286,
       "win_pct": ".503",
       "rank": 3
@@ -114,7 +114,7 @@
         {
           "team": "Padres",
           "wins": 59,
-          "losses": 55
+          "losses": 56
         },
         {
           "team": "Guardians",
@@ -133,8 +133,8 @@
         }
       ],
       "total_wins": 284,
-      "total_losses": 289,
-      "win_pct": ".496",
+      "total_losses": 290,
+      "win_pct": ".495",
       "rank": 4
     },
     {
@@ -142,13 +142,13 @@
       "teams": [
         {
           "team": "Mariners",
-          "wins": 55,
+          "wins": 56,
           "losses": 59
         },
         {
           "team": "Tigers",
           "wins": 55,
-          "losses": 58
+          "losses": 59
         },
         {
           "team": "Orioles",
@@ -166,8 +166,8 @@
           "losses": 54
         }
       ],
-      "total_wins": 270,
-      "total_losses": 298,
+      "total_wins": 271,
+      "total_losses": 299,
       "win_pct": ".475",
       "rank": 5
     },

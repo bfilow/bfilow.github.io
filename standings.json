@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 16:48 UTC",
+  "last_updated": "2026-08-12 20:35 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -123,7 +123,7 @@
         },
         {
           "team": "Twins",
-          "wins": 59,
+          "wins": 60,
           "losses": 62
         },
         {
@@ -132,9 +132,9 @@
           "losses": 74
         }
       ],
-      "total_wins": 299,
+      "total_wins": 300,
       "total_losses": 303,
-      "win_pct": ".497",
+      "win_pct": ".498",
       "rank": 4
     },
     {
@@ -153,7 +153,7 @@
         {
           "team": "Orioles",
           "wins": 58,
-          "losses": 62
+          "losses": 63
         },
         {
           "team": "Athletics",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 281,
-      "total_losses": 316,
-      "win_pct": ".471",
+      "total_losses": 317,
+      "win_pct": ".470",
       "rank": 5
     },
     {

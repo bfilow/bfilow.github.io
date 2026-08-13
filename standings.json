@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13 20:32 UTC",
+  "last_updated": "2026-08-13 23:32 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -26,13 +26,13 @@
         },
         {
           "team": "Nationals",
-          "wins": 59,
+          "wins": 60,
           "losses": 63
         }
       ],
-      "total_wins": 337,
+      "total_wins": 338,
       "total_losses": 269,
-      "win_pct": ".556",
+      "win_pct": ".557",
       "rank": 1
     },
     {
@@ -41,11 +41,11 @@
         {
           "team": "Cubs",
           "wins": 71,
-          "losses": 50
+          "losses": 51
         },
         {
           "team": "Red Sox",
-          "wins": 64,
+          "wins": 65,
           "losses": 56
         },
         {
@@ -64,9 +64,9 @@
           "losses": 60
         }
       ],
-      "total_wins": 315,
-      "total_losses": 289,
-      "win_pct": ".522",
+      "total_wins": 316,
+      "total_losses": 290,
+      "win_pct": ".521",
       "rank": 2
     },
     {
@@ -80,7 +80,7 @@
         {
           "team": "Blue Jays",
           "wins": 59,
-          "losses": 63
+          "losses": 64
         },
         {
           "team": "D-backs",
@@ -99,8 +99,8 @@
         }
       ],
       "total_wins": 307,
-      "total_losses": 303,
-      "win_pct": ".503",
+      "total_losses": 304,
+      "win_pct": ".502",
       "rank": 3
     },
     {

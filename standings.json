@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 03:19 UTC",
+  "last_updated": "2026-08-14 05:25 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -11,7 +11,7 @@
         },
         {
           "team": "Brewers",
-          "wins": 74,
+          "wins": 75,
           "losses": 47
         },
         {
@@ -30,9 +30,9 @@
           "losses": 63
         }
       ],
-      "total_wins": 338,
+      "total_wins": 339,
       "total_losses": 269,
-      "win_pct": ".557",
+      "win_pct": ".558",
       "rank": 1
     },
     {
@@ -51,7 +51,7 @@
         {
           "team": "Rangers",
           "wins": 60,
-          "losses": 61
+          "losses": 62
         },
         {
           "team": "Reds",
@@ -65,7 +65,7 @@
         }
       ],
       "total_wins": 316,
-      "total_losses": 290,
+      "total_losses": 291,
       "win_pct": ".521",
       "rank": 2
     },
@@ -109,7 +109,7 @@
         {
           "team": "Dodgers",
           "wins": 73,
-          "losses": 48
+          "losses": 49
         },
         {
           "team": "Padres",
@@ -128,12 +128,12 @@
         },
         {
           "team": "Angels",
-          "wins": 47,
+          "wins": 48,
           "losses": 74
         }
       ],
-      "total_wins": 304,
-      "total_losses": 305,
+      "total_wins": 305,
+      "total_losses": 306,
       "win_pct": ".499",
       "rank": 4
     },

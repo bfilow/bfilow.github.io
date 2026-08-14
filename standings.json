@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13 23:32 UTC",
+  "last_updated": "2026-08-14 03:19 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -74,7 +74,7 @@
       "teams": [
         {
           "team": "Phillies",
-          "wins": 64,
+          "wins": 65,
           "losses": 58
         },
         {
@@ -98,9 +98,9 @@
           "losses": 60
         }
       ],
-      "total_wins": 307,
+      "total_wins": 308,
       "total_losses": 304,
-      "win_pct": ".502",
+      "win_pct": ".503",
       "rank": 3
     },
     {
@@ -124,7 +124,7 @@
         {
           "team": "Twins",
           "wins": 60,
-          "losses": 62
+          "losses": 63
         },
         {
           "team": "Angels",
@@ -133,8 +133,8 @@
         }
       ],
       "total_wins": 304,
-      "total_losses": 304,
-      "win_pct": ".500",
+      "total_losses": 305,
+      "win_pct": ".499",
       "rank": 4
     },
     {

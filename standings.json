@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 04:21 UTC",
+  "last_updated": "2026-08-15 08:17 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -12,7 +12,7 @@
         {
           "team": "Brewers",
           "wins": 75,
-          "losses": 47
+          "losses": 48
         },
         {
           "team": "Astros",
@@ -31,8 +31,8 @@
         }
       ],
       "total_wins": 340,
-      "total_losses": 272,
-      "win_pct": ".556",
+      "total_losses": 273,
+      "win_pct": ".555",
       "rank": 1
     },
     {
@@ -51,7 +51,7 @@
         {
           "team": "Rangers",
           "wins": 60,
-          "losses": 62
+          "losses": 63
         },
         {
           "team": "Reds",
@@ -65,7 +65,7 @@
         }
       ],
       "total_wins": 318,
-      "total_losses": 293,
+      "total_losses": 294,
       "win_pct": ".520",
       "rank": 2
     },
@@ -108,7 +108,7 @@
       "teams": [
         {
           "team": "Dodgers",
-          "wins": 73,
+          "wins": 74,
           "losses": 49
         },
         {
@@ -129,11 +129,11 @@
         {
           "team": "Angels",
           "wins": 48,
-          "losses": 74
+          "losses": 75
         }
       ],
-      "total_wins": 306,
-      "total_losses": 307,
+      "total_wins": 307,
+      "total_losses": 308,
       "win_pct": ".499",
       "rank": 4
     },
@@ -157,7 +157,7 @@
         },
         {
           "team": "Athletics",
-          "wins": 47,
+          "wins": 48,
           "losses": 74
         },
         {
@@ -166,7 +166,7 @@
           "losses": 58
         }
       ],
-      "total_wins": 286,
+      "total_wins": 287,
       "total_losses": 323,
       "win_pct": ".470",
       "rank": 5
@@ -186,23 +186,23 @@
         },
         {
           "team": "Royals",
-          "wins": 49,
+          "wins": 50,
           "losses": 73
         },
         {
           "team": "Giants",
           "wins": 50,
-          "losses": 71
+          "losses": 72
         },
         {
           "team": "Rockies",
-          "wins": 48,
+          "wins": 49,
           "losses": 73
         }
       ],
-      "total_wins": 274,
-      "total_losses": 335,
-      "win_pct": ".450",
+      "total_wins": 276,
+      "total_losses": 336,
+      "win_pct": ".451",
       "rank": 6
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 02:14 UTC",
+  "last_updated": "2026-08-17 04:32 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -17,7 +17,7 @@
         {
           "team": "Astros",
           "wins": 63,
-          "losses": 61
+          "losses": 62
         },
         {
           "team": "Rays",
@@ -31,7 +31,7 @@
         }
       ],
       "total_wins": 343,
-      "total_losses": 279,
+      "total_losses": 280,
       "win_pct": ".551",
       "rank": 1
     },
@@ -142,7 +142,7 @@
       "teams": [
         {
           "team": "Mariners",
-          "wins": 58,
+          "wins": 59,
           "losses": 66
         },
         {
@@ -166,9 +166,9 @@
           "losses": 58
         }
       ],
-      "total_wins": 293,
+      "total_wins": 294,
       "total_losses": 326,
-      "win_pct": ".473",
+      "win_pct": ".474",
       "rank": 5
     },
     {

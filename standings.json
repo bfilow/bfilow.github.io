@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 16:21 UTC",
+  "last_updated": "2026-08-19 20:17 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -89,7 +89,7 @@
         },
         {
           "team": "Pirates",
-          "wins": 62,
+          "wins": 63,
           "losses": 66
         },
         {
@@ -98,9 +98,9 @@
           "losses": 62
         }
       ],
-      "total_wins": 324,
+      "total_wins": 325,
       "total_losses": 312,
-      "win_pct": ".509",
+      "win_pct": ".510",
       "rank": 3
     },
     {
@@ -114,7 +114,7 @@
         {
           "team": "Padres",
           "wins": 68,
-          "losses": 59
+          "losses": 60
         },
         {
           "team": "Guardians",
@@ -133,8 +133,8 @@
         }
       ],
       "total_wins": 317,
-      "total_losses": 316,
-      "win_pct": ".501",
+      "total_losses": 317,
+      "win_pct": ".500",
       "rank": 4
     },
     {
@@ -148,7 +148,7 @@
         {
           "team": "Tigers",
           "wins": 61,
-          "losses": 65
+          "losses": 66
         },
         {
           "team": "Orioles",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 295,
-      "total_losses": 334,
-      "win_pct": ".469",
+      "total_losses": 335,
+      "win_pct": ".468",
       "rank": 5
     },
     {
@@ -181,7 +181,7 @@
         },
         {
           "team": "Mets",
-          "wins": 57,
+          "wins": 58,
           "losses": 70
         },
         {
@@ -200,9 +200,9 @@
           "losses": 76
         }
       ],
-      "total_wins": 285,
+      "total_wins": 286,
       "total_losses": 346,
-      "win_pct": ".452",
+      "win_pct": ".453",
       "rank": 6
     }
   ]

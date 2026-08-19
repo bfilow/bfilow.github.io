@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 20:17 UTC",
+  "last_updated": "2026-08-19 23:15 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -41,7 +41,7 @@
         {
           "team": "Cubs",
           "wins": 74,
-          "losses": 53
+          "losses": 54
         },
         {
           "team": "Red Sox",
@@ -65,8 +65,8 @@
         }
       ],
       "total_wins": 328,
-      "total_losses": 304,
-      "win_pct": ".519",
+      "total_losses": 305,
+      "win_pct": ".518",
       "rank": 2
     },
     {
@@ -123,7 +123,7 @@
         },
         {
           "team": "Twins",
-          "wins": 62,
+          "wins": 63,
           "losses": 65
         },
         {
@@ -132,9 +132,9 @@
           "losses": 76
         }
       ],
-      "total_wins": 317,
+      "total_wins": 318,
       "total_losses": 317,
-      "win_pct": ".500",
+      "win_pct": ".501",
       "rank": 4
     },
     {
@@ -162,13 +162,13 @@
         },
         {
           "team": "White Sox",
-          "wins": 65,
+          "wins": 66,
           "losses": 60
         }
       ],
-      "total_wins": 295,
+      "total_wins": 296,
       "total_losses": 335,
-      "win_pct": ".468",
+      "win_pct": ".469",
       "rank": 5
     },
     {
@@ -177,7 +177,7 @@
         {
           "team": "Braves",
           "wins": 74,
-          "losses": 52
+          "losses": 53
         },
         {
           "team": "Mets",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 286,
-      "total_losses": 346,
-      "win_pct": ".453",
+      "total_losses": 347,
+      "win_pct": ".452",
       "rank": 6
     }
   ]

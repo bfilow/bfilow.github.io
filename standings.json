@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 02:18 UTC",
+  "last_updated": "2026-08-21 04:29 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -17,7 +17,7 @@
         {
           "team": "Astros",
           "wins": 64,
-          "losses": 63
+          "losses": 64
         },
         {
           "team": "Rays",
@@ -27,12 +27,12 @@
         {
           "team": "Nationals",
           "wins": 61,
-          "losses": 67
+          "losses": 68
         }
       ],
       "total_wins": 352,
-      "total_losses": 285,
-      "win_pct": ".553",
+      "total_losses": 287,
+      "win_pct": ".551",
       "rank": 1
     },
     {
@@ -50,7 +50,7 @@
         },
         {
           "team": "Rangers",
-          "wins": 62,
+          "wins": 63,
           "losses": 65
         },
         {
@@ -64,7 +64,7 @@
           "losses": 64
         }
       ],
-      "total_wins": 329,
+      "total_wins": 330,
       "total_losses": 309,
       "win_pct": ".516",
       "rank": 2
@@ -128,13 +128,13 @@
         },
         {
           "team": "Angels",
-          "wins": 50,
+          "wins": 51,
           "losses": 77
         }
       ],
-      "total_wins": 320,
+      "total_wins": 321,
       "total_losses": 319,
-      "win_pct": ".501",
+      "win_pct": ".502",
       "rank": 4
     },
     {

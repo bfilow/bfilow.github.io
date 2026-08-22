@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 04:23 UTC",
+  "last_updated": "2026-08-22 08:18 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -41,7 +41,7 @@
         {
           "team": "Cubs",
           "wins": 74,
-          "losses": 54
+          "losses": 55
         },
         {
           "team": "Red Sox",
@@ -56,7 +56,7 @@
         {
           "team": "Reds",
           "wins": 61,
-          "losses": 67
+          "losses": 68
         },
         {
           "team": "Marlins",
@@ -65,8 +65,8 @@
         }
       ],
       "total_wins": 333,
-      "total_losses": 309,
-      "win_pct": ".519",
+      "total_losses": 311,
+      "win_pct": ".517",
       "rank": 2
     },
     {
@@ -84,13 +84,13 @@
         },
         {
           "team": "D-backs",
-          "wins": 67,
+          "wins": 68,
           "losses": 61
         },
         {
           "team": "Pirates",
           "wins": 63,
-          "losses": 66
+          "losses": 67
         },
         {
           "team": "Cardinals",
@@ -98,8 +98,8 @@
           "losses": 64
         }
       ],
-      "total_wins": 330,
-      "total_losses": 316,
+      "total_wins": 331,
+      "total_losses": 317,
       "win_pct": ".511",
       "rank": 3
     },
@@ -108,7 +108,7 @@
       "teams": [
         {
           "team": "Dodgers",
-          "wins": 77,
+          "wins": 78,
           "losses": 51
         },
         {
@@ -132,7 +132,7 @@
           "losses": 78
         }
       ],
-      "total_wins": 323,
+      "total_wins": 324,
       "total_losses": 321,
       "win_pct": ".502",
       "rank": 4
@@ -142,7 +142,7 @@
       "teams": [
         {
           "team": "Mariners",
-          "wins": 60,
+          "wins": 61,
           "losses": 68
         },
         {
@@ -166,9 +166,9 @@
           "losses": 61
         }
       ],
-      "total_wins": 299,
+      "total_wins": 300,
       "total_losses": 343,
-      "win_pct": ".466",
+      "win_pct": ".467",
       "rank": 5
     },
     {

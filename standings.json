@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 20:13 UTC",
+  "last_updated": "2026-08-22 23:12 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -7,11 +7,11 @@
         {
           "team": "Yankees",
           "wins": 73,
-          "losses": 55
+          "losses": 56
         },
         {
           "team": "Brewers",
-          "wins": 80,
+          "wins": 81,
           "losses": 49
         },
         {
@@ -27,12 +27,12 @@
         {
           "team": "Nationals",
           "wins": 61,
-          "losses": 69
+          "losses": 70
         }
       ],
-      "total_wins": 355,
-      "total_losses": 289,
-      "win_pct": ".551",
+      "total_wins": 356,
+      "total_losses": 291,
+      "win_pct": ".550",
       "rank": 1
     },
     {
@@ -60,13 +60,13 @@
         },
         {
           "team": "Marlins",
-          "wins": 65,
+          "wins": 66,
           "losses": 64
         }
       ],
-      "total_wins": 333,
+      "total_wins": 334,
       "total_losses": 311,
-      "win_pct": ".517",
+      "win_pct": ".518",
       "rank": 2
     },
     {
@@ -79,7 +79,7 @@
         },
         {
           "team": "Blue Jays",
-          "wins": 63,
+          "wins": 64,
           "losses": 67
         },
         {
@@ -98,9 +98,9 @@
           "losses": 64
         }
       ],
-      "total_wins": 331,
+      "total_wins": 332,
       "total_losses": 317,
-      "win_pct": ".511",
+      "win_pct": ".512",
       "rank": 3
     },
     {
@@ -177,7 +177,7 @@
         {
           "team": "Braves",
           "wins": 75,
-          "losses": 54
+          "losses": 55
         },
         {
           "team": "Mets",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 291,
-      "total_losses": 353,
-      "win_pct": ".452",
+      "total_losses": 354,
+      "win_pct": ".451",
       "rank": 6
     }
   ]

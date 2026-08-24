@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 23:12 UTC",
+  "last_updated": "2026-08-24 02:18 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -12,7 +12,7 @@
         {
           "team": "Brewers",
           "wins": 81,
-          "losses": 49
+          "losses": 50
         },
         {
           "team": "Astros",
@@ -31,8 +31,8 @@
         }
       ],
       "total_wins": 358,
-      "total_losses": 295,
-      "win_pct": ".548",
+      "total_losses": 296,
+      "win_pct": ".547",
       "rank": 1
     },
     {
@@ -40,7 +40,7 @@
       "teams": [
         {
           "team": "Cubs",
-          "wins": 74,
+          "wins": 75,
           "losses": 56
         },
         {
@@ -64,9 +64,9 @@
           "losses": 64
         }
       ],
-      "total_wins": 339,
+      "total_wins": 340,
       "total_losses": 314,
-      "win_pct": ".519",
+      "win_pct": ".520",
       "rank": 2
     },
     {
@@ -143,7 +143,7 @@
         {
           "team": "Mariners",
           "wins": 62,
-          "losses": 68
+          "losses": 69
         },
         {
           "team": "Tigers",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 305,
-      "total_losses": 347,
-      "win_pct": ".468",
+      "total_losses": 348,
+      "win_pct": ".467",
       "rank": 5
     },
     {
@@ -176,7 +176,7 @@
       "teams": [
         {
           "team": "Braves",
-          "wins": 75,
+          "wins": 76,
           "losses": 55
         },
         {
@@ -200,9 +200,9 @@
           "losses": 80
         }
       ],
-      "total_wins": 294,
+      "total_wins": 295,
       "total_losses": 359,
-      "win_pct": ".450",
+      "win_pct": ".451",
       "rank": 6
     }
   ]

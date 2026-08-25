@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 23:15 UTC",
+  "last_updated": "2026-08-25 02:13 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -21,18 +21,18 @@
         },
         {
           "team": "Rays",
-          "wins": 77,
+          "wins": 78,
           "losses": 53
         },
         {
           "team": "Nationals",
-          "wins": 61,
+          "wins": 62,
           "losses": 71
         }
       ],
-      "total_wins": 358,
+      "total_wins": 360,
       "total_losses": 296,
-      "win_pct": ".547",
+      "win_pct": ".549",
       "rank": 1
     },
     {
@@ -45,7 +45,7 @@
         },
         {
           "team": "Red Sox",
-          "wins": 71,
+          "wins": 72,
           "losses": 59
         },
         {
@@ -61,11 +61,11 @@
         {
           "team": "Marlins",
           "wins": 67,
-          "losses": 64
+          "losses": 65
         }
       ],
-      "total_wins": 340,
-      "total_losses": 314,
+      "total_wins": 341,
+      "total_losses": 315,
       "win_pct": ".520",
       "rank": 2
     },
@@ -148,7 +148,7 @@
         {
           "team": "Tigers",
           "wins": 61,
-          "losses": 69
+          "losses": 70
         },
         {
           "team": "Orioles",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 305,
-      "total_losses": 348,
-      "win_pct": ".467",
+      "total_losses": 349,
+      "win_pct": ".466",
       "rank": 5
     },
     {
@@ -197,12 +197,12 @@
         {
           "team": "Rockies",
           "wins": 50,
-          "losses": 80
+          "losses": 81
         }
       ],
       "total_wins": 295,
-      "total_losses": 359,
-      "win_pct": ".451",
+      "total_losses": 360,
+      "win_pct": ".450",
       "rank": 6
     }
   ]

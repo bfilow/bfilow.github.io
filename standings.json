@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 16:42 UTC",
+  "last_updated": "2026-08-26 22:36 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -21,7 +21,7 @@
         },
         {
           "team": "Rays",
-          "wins": 78,
+          "wins": 79,
           "losses": 54
         },
         {
@@ -30,9 +30,9 @@
           "losses": 72
         }
       ],
-      "total_wins": 361,
+      "total_wins": 362,
       "total_losses": 300,
-      "win_pct": ".546",
+      "win_pct": ".547",
       "rank": 1
     },
     {
@@ -41,7 +41,7 @@
         {
           "team": "Cubs",
           "wins": 76,
-          "losses": 57
+          "losses": 58
         },
         {
           "team": "Red Sox",
@@ -65,8 +65,8 @@
         }
       ],
       "total_wins": 344,
-      "total_losses": 320,
-      "win_pct": ".518",
+      "total_losses": 321,
+      "win_pct": ".517",
       "rank": 2
     },
     {
@@ -84,7 +84,7 @@
         },
         {
           "team": "D-backs",
-          "wins": 70,
+          "wins": 71,
           "losses": 63
         },
         {
@@ -98,7 +98,7 @@
           "losses": 67
         }
       ],
-      "total_wins": 338,
+      "total_wins": 339,
       "total_losses": 328,
       "win_pct": ".508",
       "rank": 3
@@ -148,7 +148,7 @@
         {
           "team": "Tigers",
           "wins": 62,
-          "losses": 70
+          "losses": 71
         },
         {
           "team": "Orioles",
@@ -167,8 +167,8 @@
         }
       ],
       "total_wins": 311,
-      "total_losses": 351,
-      "win_pct": ".470",
+      "total_losses": 352,
+      "win_pct": ".469",
       "rank": 5
     },
     {

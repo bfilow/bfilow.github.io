@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28 15:51 UTC",
+  "last_updated": "2026-08-29 00:16 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -41,7 +41,7 @@
         {
           "team": "Cubs",
           "wins": 76,
-          "losses": 58
+          "losses": 59
         },
         {
           "team": "Red Sox",
@@ -55,7 +55,7 @@
         },
         {
           "team": "Reds",
-          "wins": 63,
+          "wins": 64,
           "losses": 71
         },
         {
@@ -64,8 +64,8 @@
           "losses": 66
         }
       ],
-      "total_wins": 346,
-      "total_losses": 323,
+      "total_wins": 347,
+      "total_losses": 324,
       "win_pct": ".517",
       "rank": 2
     },

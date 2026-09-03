@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 22:12 UTC",
+  "last_updated": "2026-09-03 00:52 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -46,7 +46,7 @@
         {
           "team": "Red Sox",
           "wins": 75,
-          "losses": 64
+          "losses": 65
         },
         {
           "team": "Rangers",
@@ -65,8 +65,8 @@
         }
       ],
       "total_wins": 359,
-      "total_losses": 338,
-      "win_pct": ".515",
+      "total_losses": 339,
+      "win_pct": ".514",
       "rank": 2
     },
     {
@@ -142,7 +142,7 @@
       "teams": [
         {
           "team": "Mariners",
-          "wins": 65,
+          "wins": 66,
           "losses": 74
         },
         {
@@ -153,7 +153,7 @@
         {
           "team": "Orioles",
           "wins": 69,
-          "losses": 70
+          "losses": 71
         },
         {
           "team": "Athletics",
@@ -166,8 +166,8 @@
           "losses": 65
         }
       ],
-      "total_wins": 324,
-      "total_losses": 370,
+      "total_wins": 325,
+      "total_losses": 371,
       "win_pct": ".467",
       "rank": 5
     },
@@ -196,13 +196,13 @@
         },
         {
           "team": "Rockies",
-          "wins": 53,
+          "wins": 54,
           "losses": 86
         }
       ],
-      "total_wins": 317,
+      "total_wins": 318,
       "total_losses": 379,
-      "win_pct": ".455",
+      "win_pct": ".456",
       "rank": 6
     }
   ]

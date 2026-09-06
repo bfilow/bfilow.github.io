@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 21:49 UTC",
+  "last_updated": "2026-09-06 00:25 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -40,7 +40,7 @@
       "teams": [
         {
           "team": "Cubs",
-          "wins": 80,
+          "wins": 81,
           "losses": 62
         },
         {
@@ -61,11 +61,11 @@
         {
           "team": "Marlins",
           "wins": 71,
-          "losses": 71
+          "losses": 72
         }
       ],
-      "total_wins": 365,
-      "total_losses": 344,
+      "total_wins": 366,
+      "total_losses": 345,
       "win_pct": ".515",
       "rank": 2
     },
@@ -182,7 +182,7 @@
         {
           "team": "Mets",
           "wins": 64,
-          "losses": 77
+          "losses": 78
         },
         {
           "team": "Royals",
@@ -191,7 +191,7 @@
         },
         {
           "team": "Giants",
-          "wins": 58,
+          "wins": 59,
           "losses": 84
         },
         {
@@ -200,8 +200,8 @@
           "losses": 87
         }
       ],
-      "total_wins": 323,
-      "total_losses": 384,
+      "total_wins": 324,
+      "total_losses": 385,
       "win_pct": ".457",
       "rank": 6
     }

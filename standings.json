@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07 22:24 UTC",
+  "last_updated": "2026-09-08 00:50 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -27,12 +27,12 @@
         {
           "team": "Nationals",
           "wins": 67,
-          "losses": 78
+          "losses": 79
         }
       ],
       "total_wins": 395,
-      "total_losses": 325,
-      "win_pct": ".549",
+      "total_losses": 326,
+      "win_pct": ".548",
       "rank": 1
     },
     {
@@ -113,7 +113,7 @@
         },
         {
           "team": "Padres",
-          "wins": 75,
+          "wins": 76,
           "losses": 68
         },
         {
@@ -132,9 +132,9 @@
           "losses": 90
         }
       ],
-      "total_wins": 356,
+      "total_wins": 357,
       "total_losses": 363,
-      "win_pct": ".495",
+      "win_pct": ".496",
       "rank": 4
     },
     {

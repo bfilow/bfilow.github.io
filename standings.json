@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 12:32 UTC",
+  "last_updated": "2026-09-10 18:50 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -22,7 +22,7 @@
         {
           "team": "Rays",
           "wins": 87,
-          "losses": 58
+          "losses": 59
         },
         {
           "team": "Nationals",
@@ -31,8 +31,8 @@
         }
       ],
       "total_wins": 402,
-      "total_losses": 329,
-      "win_pct": ".550",
+      "total_losses": 330,
+      "win_pct": ".549",
       "rank": 1
     },
     {
@@ -176,7 +176,7 @@
       "teams": [
         {
           "team": "Braves",
-          "wins": 85,
+          "wins": 86,
           "losses": 61
         },
         {
@@ -200,9 +200,9 @@
           "losses": 90
         }
       ],
-      "total_wins": 335,
+      "total_wins": 336,
       "total_losses": 396,
-      "win_pct": ".458",
+      "win_pct": ".459",
       "rank": 6
     }
   ]

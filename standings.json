@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-11 00:42 UTC",
+  "last_updated": "2026-09-11 05:28 UTC",
   "standings": [
     {
       "person": "Rice",
       "teams": [
         {
           "team": "Yankees",
-          "wins": 83,
+          "wins": 84,
           "losses": 62
         },
         {
@@ -30,7 +30,7 @@
           "losses": 81
         }
       ],
-      "total_wins": 403,
+      "total_wins": 404,
       "total_losses": 330,
       "win_pct": ".550",
       "rank": 1
@@ -55,7 +55,7 @@
         },
         {
           "team": "Pirates",
-          "wins": 73,
+          "wins": 74,
           "losses": 73
         },
         {
@@ -64,9 +64,9 @@
           "losses": 75
         }
       ],
-      "total_wins": 378,
+      "total_wins": 379,
       "total_losses": 356,
-      "win_pct": ".515",
+      "win_pct": ".516",
       "rank": 2
     },
     {
@@ -163,12 +163,12 @@
         {
           "team": "White Sox",
           "wins": 75,
-          "losses": 70
+          "losses": 71
         }
       ],
       "total_wins": 341,
-      "total_losses": 391,
-      "win_pct": ".466",
+      "total_losses": 392,
+      "win_pct": ".465",
       "rank": 5
     },
     {
@@ -197,12 +197,12 @@
         {
           "team": "Rockies",
           "wins": 55,
-          "losses": 90
+          "losses": 91
         }
       ],
       "total_wins": 336,
-      "total_losses": 396,
-      "win_pct": ".459",
+      "total_losses": 397,
+      "win_pct": ".458",
       "rank": 6
     }
   ]

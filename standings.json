@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14 00:32 UTC",
+  "last_updated": "2026-09-14 05:35 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -113,7 +113,7 @@
         },
         {
           "team": "Padres",
-          "wins": 80,
+          "wins": 81,
           "losses": 68
         },
         {
@@ -132,9 +132,9 @@
           "losses": 93
         }
       ],
-      "total_wins": 372,
+      "total_wins": 373,
       "total_losses": 373,
-      "win_pct": ".499",
+      "win_pct": ".500",
       "rank": 4
     },
     {
@@ -192,7 +192,7 @@
         {
           "team": "Giants",
           "wins": 62,
-          "losses": 87
+          "losses": 88
         },
         {
           "team": "Rockies",
@@ -201,7 +201,7 @@
         }
       ],
       "total_wins": 340,
-      "total_losses": 407,
+      "total_losses": 408,
       "win_pct": ".455",
       "rank": 6
     }

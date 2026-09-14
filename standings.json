@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13 21:58 UTC",
+  "last_updated": "2026-09-14 00:32 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -51,7 +51,7 @@
         {
           "team": "D-backs",
           "wins": 79,
-          "losses": 70
+          "losses": 71
         },
         {
           "team": "Pirates",
@@ -65,7 +65,7 @@
         }
       ],
       "total_wins": 386,
-      "total_losses": 363,
+      "total_losses": 364,
       "win_pct": ".515",
       "rank": 2
     },
@@ -79,12 +79,12 @@
         },
         {
           "team": "Red Sox",
-          "wins": 81,
+          "wins": 82,
           "losses": 68
         },
         {
           "team": "Rangers",
-          "wins": 73,
+          "wins": 74,
           "losses": 76
         },
         {
@@ -98,9 +98,9 @@
           "losses": 76
         }
       ],
-      "total_wins": 381,
+      "total_wins": 383,
       "total_losses": 366,
-      "win_pct": ".510",
+      "win_pct": ".511",
       "rank": 3
     },
     {
@@ -143,7 +143,7 @@
         {
           "team": "Mariners",
           "wins": 70,
-          "losses": 79
+          "losses": 80
         },
         {
           "team": "Tigers",
@@ -157,7 +157,7 @@
         },
         {
           "team": "Athletics",
-          "wins": 60,
+          "wins": 61,
           "losses": 89
         },
         {
@@ -166,9 +166,9 @@
           "losses": 73
         }
       ],
-      "total_wins": 348,
-      "total_losses": 398,
-      "win_pct": ".466",
+      "total_wins": 349,
+      "total_losses": 399,
+      "win_pct": ".467",
       "rank": 5
     },
     {
@@ -187,7 +187,7 @@
         {
           "team": "Royals",
           "wins": 66,
-          "losses": 83
+          "losses": 84
         },
         {
           "team": "Giants",
@@ -201,8 +201,8 @@
         }
       ],
       "total_wins": 340,
-      "total_losses": 406,
-      "win_pct": ".456",
+      "total_losses": 407,
+      "win_pct": ".455",
       "rank": 6
     }
   ]

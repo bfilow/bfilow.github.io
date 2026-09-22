@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-22 16:00 UTC",
+  "last_updated": "2026-09-22 22:34 UTC",
   "standings": [
     {
       "person": "Rice",
       "teams": [
         {
           "team": "Yankees",
-          "wins": 89,
+          "wins": 90,
           "losses": 66
         },
         {
@@ -22,7 +22,7 @@
         {
           "team": "Rays",
           "wins": 95,
-          "losses": 60
+          "losses": 61
         },
         {
           "team": "Nationals",
@@ -30,9 +30,9 @@
           "losses": 84
         }
       ],
-      "total_wins": 432,
-      "total_losses": 347,
-      "win_pct": ".555",
+      "total_wins": 433,
+      "total_losses": 348,
+      "win_pct": ".554",
       "rank": 1
     },
     {

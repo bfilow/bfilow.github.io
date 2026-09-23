@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23 19:21 UTC",
+  "last_updated": "2026-09-23 22:34 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -26,11 +26,11 @@
         },
         {
           "team": "Nationals",
-          "wins": 74,
+          "wins": 75,
           "losses": 84
         }
       ],
-      "total_wins": 436,
+      "total_wins": 437,
       "total_losses": 350,
       "win_pct": ".555",
       "rank": 1
@@ -46,7 +46,7 @@
         {
           "team": "Blue Jays",
           "wins": 77,
-          "losses": 80
+          "losses": 81
         },
         {
           "team": "D-backs",
@@ -65,7 +65,7 @@
         }
       ],
       "total_wins": 403,
-      "total_losses": 382,
+      "total_losses": 383,
       "win_pct": ".513",
       "rank": 2
     },
@@ -89,7 +89,7 @@
         },
         {
           "team": "Twins",
-          "wins": 74,
+          "wins": 75,
           "losses": 84
         },
         {
@@ -98,9 +98,9 @@
           "losses": 97
         }
       ],
-      "total_wins": 400,
+      "total_wins": 401,
       "total_losses": 386,
-      "win_pct": ".509",
+      "win_pct": ".510",
       "rank": 3
     },
     {
@@ -148,11 +148,11 @@
         {
           "team": "Tigers",
           "wins": 74,
-          "losses": 84
+          "losses": 85
         },
         {
           "team": "Orioles",
-          "wins": 76,
+          "wins": 77,
           "losses": 81
         },
         {
@@ -166,8 +166,8 @@
           "losses": 76
         }
       ],
-      "total_wins": 366,
-      "total_losses": 420,
+      "total_wins": 367,
+      "total_losses": 421,
       "win_pct": ".466",
       "rank": 5
     },
@@ -192,7 +192,7 @@
         {
           "team": "Giants",
           "wins": 65,
-          "losses": 93
+          "losses": 94
         },
         {
           "team": "Rockies",
@@ -201,7 +201,7 @@
         }
       ],
       "total_wins": 353,
-      "total_losses": 433,
+      "total_losses": 434,
       "win_pct": ".449",
       "rank": 6
     }

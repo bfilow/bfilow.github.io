@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24 13:02 UTC",
+  "last_updated": "2026-09-24 19:39 UTC",
   "standings": [
     {
       "person": "Rice",
@@ -55,17 +55,17 @@
         },
         {
           "team": "Pirates",
-          "wins": 80,
+          "wins": 81,
           "losses": 78
         },
         {
           "team": "Cardinals",
           "wins": 77,
-          "losses": 81
+          "losses": 82
         }
       ],
-      "total_wins": 405,
-      "total_losses": 386,
+      "total_wins": 406,
+      "total_losses": 387,
       "win_pct": ".512",
       "rank": 2
     },
